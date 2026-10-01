@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "training_runs": 56,
+  "checkpoints": 168,
+  "raw_files_verified": 1232,
+  "raw_bytes": 453674867,
+  "source_hashes_verified": 8,
+  "id_metric_rows_independently_reconstructed": 336,
+  "paired_eval_inputs_verified": true,
+  "ood_rows_evaluated": 144,
+  "ood_rows_explicitly_withheld": 24,
+  "plots": 12,
+  "legacy_source_and_raw_results_unchanged": true,
+  "tests": [
+    {
+      "location": "gbminipc Docker pinned CPU image",
+      "command": "python -m pytest tests/test_experiment_a.py -q",
+      "passed": 22
+    },
+    {
+      "location": "local Mac",
+      "command": "python3 -m pytest tests/test_experiment_a_analysis.py -q",
+      "passed": 3
+    }
+  ],
+  "main_training_image": "sha256:054fe1dd2c4e46261172d08401cd7646524d20fa96412dec796ec5f6cb0d2731",
+  "constraints": "No legacy reruns, tuning, history/reset, synchronization, control variation or hybrids; Experiment B closed.",
+  "task_containers_removed_after_verified_copy": 8,
+  "remote_checkout_and_checkpoints_retained": true
+}

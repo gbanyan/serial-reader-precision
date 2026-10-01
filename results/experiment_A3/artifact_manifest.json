@@ -1,0 +1,150 @@
+{
+  "results/experiment_A3/lagged_geometry_associations.csv": {
+    "bytes": 4343,
+    "sha256": "0da863cfa969f7a8665c14c9270885e4999410a3d369eef9d72525841bfb9991"
+  },
+  "results/experiment_A3/paired_geometry_differences.csv": {
+    "bytes": 4092,
+    "sha256": "eb1a4a52cc432f428ebff6a77d6e707ef12a93c67310240ab43326de0ab87bb5"
+  },
+  "results/experiment_A3/04_readout_alignment.png": {
+    "bytes": 53477,
+    "sha256": "01af5da7cb8a0df96b8c3592b41fec2f907198e9e01a4298a86f285d29911498"
+  },
+  "results/experiment_A3/05_trajectory.png": {
+    "bytes": 146238,
+    "sha256": "9359c8e1e77e626180635f4efb1dc5d34e8efc01b7adec2a22d48769d0b7ab79"
+  },
+  "results/experiment_A3/03_adjacent_spacing.png": {
+    "bytes": 93851,
+    "sha256": "3a867726cd8837c0ccb19167db2d1a9d5e17196f7aaab3cb9e6cd19b33c255a2"
+  },
+  "results/experiment_A3/06_geometry_performance.png": {
+    "bytes": 85058,
+    "sha256": "4817e3b101c8d8f04f353bf77e185f4c7a5a3800cedbbd9e539a3a45f7cb4626"
+  },
+  "results/experiment_A3/01_learned_geometry.png": {
+    "bytes": 139712,
+    "sha256": "7617ca70e0406573e86ce7147345edd751462172c6e5809287fe94c5013a01df"
+  },
+  "results/experiment_A3/README.md": {
+    "bytes": 3592,
+    "sha256": "4c845c6d7dacfff856eb65a3b83c08907bd6cc21c42e6f6833b987dd7682c340"
+  },
+  "results/experiment_A3/09_phase_arc.png": {
+    "bytes": 32363,
+    "sha256": "b1817bcb12a6d9f0f195ea581fa5d5b9b4ee78c34651c229afbecb766f443f35"
+  },
+  "results/experiment_A3/02_rank_metric.png": {
+    "bytes": 73084,
+    "sha256": "49e6c1db65de2663619bcab94ac4a1cc24816034b45ca9085dc1cf4d4d327043"
+  },
+  "results/experiment_A3/adjacent_spacing.csv": {
+    "bytes": 76441,
+    "sha256": "fdd7a4967c215d8910483f64db1d1843623a2cae43bb6900a19be9718936d47e"
+  },
+  "results/experiment_A3/complete.json": {
+    "bytes": 74,
+    "sha256": "cfad0128a2eab434ba99d6c06d51c026cdeef8cd675cd96deabfe2cc8fc3ca4f"
+  },
+  "results/experiment_A3/geometry_performance_correlations.csv": {
+    "bytes": 16926,
+    "sha256": "c7d50666d08befe85c211994c44c58e12b763aabdb62c834c4e573b85c6f8025"
+  },
+  "results/experiment_A3/07_transfer.png": {
+    "bytes": 37429,
+    "sha256": "64d0f9c8e0223bc7a8b8506ed0ac84f0497ce71494444c3876caa0f1334bd888"
+  },
+  "results/experiment_A3/decision.json": {
+    "bytes": 304,
+    "sha256": "1c107bada39663c5aa32c39c020275e97aa54c9acf38d4095e02ef6d3ea6bbc1"
+  },
+  "results/experiment_A3/verification.json": {
+    "bytes": 568,
+    "sha256": "ba385fc8ee07028222dbfbd6eb2a5d6078fcdf484c16703bd5964abad8022bdb"
+  },
+  "results/experiment_A3/08_canonicalization.png": {
+    "bytes": 50505,
+    "sha256": "c860d3f3a9c969170c141259d387026b6802a94901cd1806a16dbed9ac91e23f"
+  },
+  "results/experiment_A3/10_phase_monotonicity.png": {
+    "bytes": 35119,
+    "sha256": "5206c6c44d6bcbcb0f0073139f08b92ab6c0f4475fbdcceef8f2895ca672e4fa"
+  },
+  "results/experiment_A3/11_phase_counterfactual.png": {
+    "bytes": 39913,
+    "sha256": "4ca428a484cda524bb34c3ce2e141aee1f5d39e2f5b57f25acc5e043955ee45c"
+  },
+  "results/experiment_A3/12_scan_snap.png": {
+    "bytes": 48708,
+    "sha256": "bb2c28079f36d11a18442c2afdfcef9b3690831bf5a13690e1f038173f9adefe"
+  },
+  "results/experiment_A3_rank_metric_decomposition.csv": {
+    "bytes": 51426,
+    "sha256": "0bd58d9998ef5db9d128d3973e809c66374fc13711df3193d90388b78ee0d917"
+  },
+  "results/experiment_A3_geometry_trajectory.csv": {
+    "bytes": 87686,
+    "sha256": "2340588d4439166d1bd13949469138e503e3791be1a60130e64cf3839990d404"
+  },
+  "results/experiment_A3_counterfactual_geometry.csv": {
+    "bytes": 46035,
+    "sha256": "988a59bc6a14d42c19e2358a82e02ceb63b1140bbae675700ea1af16a3d87a39"
+  },
+  "results/experiment_A3_phase_arc_analysis.csv": {
+    "bytes": 9652,
+    "sha256": "bbdd1d937d56f9ba468658c92b623bf7f6c0c63c464fd45cc484b49fe169bd71"
+  },
+  "results/experiment_A3_geometry_summary.csv": {
+    "bytes": 87686,
+    "sha256": "2340588d4439166d1bd13949469138e503e3791be1a60130e64cf3839990d404"
+  },
+  "results/experiment_A3_cross_readout_transfer.csv": {
+    "bytes": 30452,
+    "sha256": "38ca059f446ffb5dac71bfd6478f4cffb5729928af4da60777279d60a5994487"
+  },
+  "results/experiment_A3_readout_alignment.csv": {
+    "bytes": 33705,
+    "sha256": "ebc846ec1887c36350d5759efbb6b2833261178bad6aeee8907329459697104f"
+  },
+  "research/experiment_A3_preregistered_hypotheses.md": {
+    "bytes": 3675,
+    "sha256": "b4b4b4adc791c649aabb774757109f76c8cf1299d0061e2adedcb2bebbc4ae45"
+  },
+  "research/experiment_A3_summary.md": {
+    "bytes": 10858,
+    "sha256": "3ca236c43ba3e8895ca81dc42bc1c288b7341e16acd2dc56fa96a4d7657a3f8e"
+  },
+  "research/experiment_A3_checkpoint_comparability.md": {
+    "bytes": 3159,
+    "sha256": "a2e506e5721c2ce5d2e09dba76a376153b353de1986670ddfc932d45384d1e98"
+  },
+  "research/experiment_A3_learned_geometry_adaptation.md": {
+    "bytes": 5180,
+    "sha256": "3325bcba5933e3e5130db77f69411d492d6aae2ef5e19c90336fea438592363e"
+  },
+  "experiment_a3/__init__.py": {
+    "bytes": 50,
+    "sha256": "dbda0e55768b023d5c96f5af5d7729db24795843a6ffeda8f75c1c3d38df24d3"
+  },
+  "experiment_a3/verify.py": {
+    "bytes": 2151,
+    "sha256": "9be12aaf4ba810208b9320e6d8c6c9f0c8ae7c9b1bc0e1783b0983898461b5b3"
+  },
+  "experiment_a3/report.py": {
+    "bytes": 8185,
+    "sha256": "915de6da136407c4d79dcd9e66dae1958d3bac0691255e2696266514bb12a6e0"
+  },
+  "experiment_a3/analyze.py": {
+    "bytes": 10886,
+    "sha256": "89cb92791d358a71054babda6c3c35ea1cd5367a53ad641de64d4c096d348c94"
+  },
+  "runs/experiment_A3/geometry_trials.csv": {
+    "bytes": 25265474,
+    "sha256": "623327f6199131e08845b497adab1ed9ef8814b7ade1db360852621db2a399cd"
+  },
+  "experiment_A3_source.json": {
+    "bytes": 11583,
+    "sha256": "5e627c572f5e532c75b070d46b0547aa042a0547dbdef5398f0b3d12c05adbb6"
+  }
+}

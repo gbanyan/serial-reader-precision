@@ -1,0 +1,178 @@
+{
+  "artifacts": {
+    "results/experiment_A2/phase_tie_invariance_check.csv": {
+      "bytes": 777,
+      "sha256": "745af22844aab565899f3bdb45259c094cd5482cbfa6a9c5e04faa69c67c50ef"
+    },
+    "results/experiment_A2/02_oracle_length.png": {
+      "bytes": 33385,
+      "sha256": "6cb45d2a0c14d47d0320ea1065b70bed13ff2470390c2fa5737ced41035dfd13"
+    },
+    "results/experiment_A2/08_learned_gap.png": {
+      "bytes": 52354,
+      "sha256": "509dd0a0558418f118813c9a3a7879a96fcaf06cee003e1b671d62a278a3eaf3"
+    },
+    "results/experiment_A2/01_oracle_heatmap.png": {
+      "bytes": 31913,
+      "sha256": "da084d3cbdefca13c6f4e71c2faebc29f123fad0d67233c082edaeb4747ff425"
+    },
+    "results/experiment_A2/primary_complete.json": {
+      "bytes": 72,
+      "sha256": "346a46e9eef697a1f52aac99dbeaff9a6f29a4bed823aa0aa794cd82d2fdda29"
+    },
+    "results/experiment_A2/12_invariance.png": {
+      "bytes": 48420,
+      "sha256": "2bac252819030610f60de5d01f26c8371b2ea1b8ff549532c0bad05bed38a862"
+    },
+    "results/experiment_A2/06_readout_robustness.png": {
+      "bytes": 75786,
+      "sha256": "03fa64c53de6edca8a9030349bdd03943e7c314c80912f865ef258a73c10b735"
+    },
+    "results/experiment_A2/04_noise_pairwise.png": {
+      "bytes": 143438,
+      "sha256": "c449e78807260a1c2deed1d85c2cfff359405b727f2835e9b05d9eb5fad62d51"
+    },
+    "results/experiment_A2/robustness_auc.csv": {
+      "bytes": 13481,
+      "sha256": "fb3d21ec2d56c15e2c6e2c6829891973fb8c893d7cd1e7de0c8c71a03846b162"
+    },
+    "results/experiment_A2/11_cursor.png": {
+      "bytes": 37240,
+      "sha256": "991ff048949d0e815ec4c937a2975e68ef046142290f6cb7b8ca8923abdd007f"
+    },
+    "results/experiment_A2/09_geometry_error.png": {
+      "bytes": 55249,
+      "sha256": "8ea7390008af0d02a0aadac4d33287295d4fdb6225aa2ccd4f9b25f61379710e"
+    },
+    "results/experiment_A2/README.md": {
+      "bytes": 4977,
+      "sha256": "92f488f027fb126c74092c8c1bae12967b0bf58c7dd8681f9da220d40b677ec0"
+    },
+    "results/experiment_A2/analytical_scan_check.csv": {
+      "bytes": 8501,
+      "sha256": "ce235717f53f5a3af90d1508cbee13e9c046386cc8f25183f5438298cd183b2b"
+    },
+    "results/experiment_A2/10_error_failure.png": {
+      "bytes": 71474,
+      "sha256": "5ffa6638799fc926089ef36156b5b318c58a562cbec1c0e4fe0c8841391538f7"
+    },
+    "results/experiment_A2/decision.json": {
+      "bytes": 431,
+      "sha256": "d53b4d8ee3877a03b29070072f64ab6f22f012c2d0633e5867030c3edd4578f4"
+    },
+    "results/experiment_A2/verification.json": {
+      "bytes": 630,
+      "sha256": "85bdb188794ec5d12dfaa13ee0a740626749ce07d74b41042148853f32e0ffcd"
+    },
+    "results/experiment_A2/noise_thresholds.csv": {
+      "bytes": 47408,
+      "sha256": "3fcba875c4d322cb6c9857f4afecf0a3c8209242fd465c3959c2244cb0b79665"
+    },
+    "results/experiment_A2/learned_replay.json": {
+      "bytes": 65,
+      "sha256": "8c87b26541294f095df137407eed5fc3c41da4842946a736802f8632a4daa49e"
+    },
+    "results/experiment_A2/07_thresholds.png": {
+      "bytes": 79386,
+      "sha256": "d2e5dbddb32b1224ce89a4e935b44f2b7616ddcafe47eef3f2c5ef35b9d59165"
+    },
+    "results/experiment_A2/noise_error_association.csv": {
+      "bytes": 67713,
+      "sha256": "679c69a28aa0a7494f931c2f1eca2864166a2f41737239c2d6e1f2cbbbc0c99c"
+    },
+    "results/experiment_A2/05_rank_preserved_failure.png": {
+      "bytes": 70025,
+      "sha256": "a6220711c0a818790254a4aa158af62e4ec3875dacb6a009e2be512170c65cb8"
+    },
+    "results/experiment_A2/03_noise_exact.png": {
+      "bytes": 183418,
+      "sha256": "ba7332d564f72181da8984dff38315e70bdab5a42a5be7e3660420f634b63671"
+    },
+    "results/experiment_A2_cursor_interventions.csv": {
+      "bytes": 26956,
+      "sha256": "1f2e093c41e8d7198a67dd021efd5340cf91c54a66d99bc5ad65b89ab3ec8d1f"
+    },
+    "results/experiment_A2_rank_inversion_analysis.csv": {
+      "bytes": 208972,
+      "sha256": "a70bba1706fdcd6c59dabcd6b368e22ea559c9ba22c4279853b759a14cba074e"
+    },
+    "results/experiment_A2_invariance.csv": {
+      "bytes": 7482,
+      "sha256": "1016f137729b35f473c02195d09c3dbb729446a1cdca055c1568ae0f84e23edc"
+    },
+    "results/experiment_A2_oracle_matrix.csv": {
+      "bytes": 12013,
+      "sha256": "2ff69a74191e0bac9d539d43eb857964b4b8f6d15008198a6907313649e24555"
+    },
+    "results/experiment_A2_learnability_gap.csv": {
+      "bytes": 3700,
+      "sha256": "5000fb9b6716f76ff146a0722fe29384606a6abde1bf740858644472c5b23cb0"
+    },
+    "results/experiment_A2_learned_geometry_error.csv": {
+      "bytes": 7877,
+      "sha256": "3159cc6077f96d3be28f43669c8aa7aa798a54ee3b371c298aaea97b691e3159"
+    },
+    "results/experiment_A2_noise_curves.csv": {
+      "bytes": 168839,
+      "sha256": "5c3fc153631eeaa714cf92803d9d2df75c3d7cbc1be96c582d98286426842a7f"
+    },
+    "experiment_a2/analysis.py": {
+      "bytes": 12443,
+      "sha256": "5d38b8e02b82d173d448c58e1f9c2e15b85600a6bebaed3bb44d19510ff65283"
+    },
+    "experiment_a2/__init__.py": {
+      "bytes": 68,
+      "sha256": "f41eca246104c5e9ca3f5edcda4e0e473d55107a839b2168f799b4430b772ac2"
+    },
+    "experiment_a2/test_equivalence.py": {
+      "bytes": 1375,
+      "sha256": "25fb4697d8f7b90863922e0bbe17161c85359762c194682567dbe7cf53239c3a"
+    },
+    "experiment_a2/verify.py": {
+      "bytes": 2788,
+      "sha256": "fc035e1cbfbbf4224bd59e938f62e5bfa72c721c7b59de87644a282e7cd0cdd7"
+    },
+    "experiment_a2/supplement.py": {
+      "bytes": 5082,
+      "sha256": "6c6f432a02f6d596e326c67884c1d6bd4f2ba4aecdb99e46dac7aaea4b364e65"
+    },
+    "experiment_a2/report.py": {
+      "bytes": 8506,
+      "sha256": "b5826eeff3fc1c73be76d3541d0f7beffc3b9a19a5c25d438d5f76c22088aaa4"
+    },
+    "research/experiment_A2_preregistered_hypotheses.md": {
+      "bytes": 3470,
+      "sha256": "0ff1b5a6ef3a87642864e3d5745d394993bb590c42dafc831769e3848998e873"
+    },
+    "research/experiment_A2_summary.md": {
+      "bytes": 10293,
+      "sha256": "168d833838082c119922d2b202dfa5a290d6b8971050c122395ecad7d3b070e2"
+    },
+    "research/experiment_A2_oracle_compatibility.md": {
+      "bytes": 5613,
+      "sha256": "09533b8eafc2da4a6740fde9a35669ad78e734fc10c379b03c7d0ff346ba6837"
+    },
+    "runs/experiment_A2/learned_trial_geometry.csv": {
+      "bytes": 2675207,
+      "sha256": "40019744054dfd0da1ae484057968192d84695a58ad735e593bb468bab8dfec3"
+    },
+    "runs/experiment_A2/oracle_before_noise.json": {
+      "bytes": 9103,
+      "sha256": "b831d06187339c141a68e4a5cd5825d76b29244914e129b7929d5b9383646d32"
+    },
+    "runs/experiment_A2/remote_container_state.json": {
+      "bytes": 269,
+      "sha256": "02d0aeea1bc8f2b2bd0d2a6489421ab4ba0510d9d6d829b6ec65284e832bdfb3"
+    },
+    "runs/experiment_A2/remote_equivalence.log": {
+      "bytes": 514,
+      "sha256": "5ef0da8612e837a46f58fccea68dd3df8282d66c951c0bc51009265e1133d68c"
+    },
+    "experiment_A2_source.json": {
+      "bytes": 6661,
+      "sha256": "4ecfcfb6096510cb70c8206fe5c0eb2063b1029512fbb731aa542acd2901e178"
+    }
+  },
+  "execution": "local analysis; pinned remote PyTorch decoder check",
+  "source_manifest": "experiment_A2_source.json"
+}

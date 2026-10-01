@@ -1,0 +1,22 @@
+{
+  "oracle_scan_valid": true,
+  "oracle_competent_families": [
+    "priority",
+    "position",
+    "phase"
+  ],
+  "metric_fragility_families": [
+    "priority",
+    "position",
+    "phase"
+  ],
+  "learned_bottleneck_families": [
+    "priority",
+    "position",
+    "phase"
+  ],
+  "classification": "A2-SCAN-5",
+  "compatibility": "STILL UNRESOLVED",
+  "recommendation": "DO NOT RERUN FACTORIAL YET",
+  "experiment_B": "BLOCKED"
+}

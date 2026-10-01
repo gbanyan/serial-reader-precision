@@ -1,0 +1,18 @@
+{
+  "git_commit": "8c1dfe347a3e0d9d3e6a8ce590e2528fcf9447d4",
+  "original_A_commit": "135141f83f09977e7cc0b28ff80fab4ee98a8e68",
+  "sha256": {
+    "experiment_a1/metrics.py": "07efcdee8018ab9f5e12de4664d589de37891b042327d1368cbd8c9f2e9f43de",
+    "experiment_a1/run.py": "f3a19530b1ac1e49caa24fdc21ebce0e7b03b59577ec5a75ffd4b14e8a2c1aac",
+    "experiment_a1/__init__.py": "23f7de7a583d42242ece77aa3c1fd0df00b5a150868f352b54f4e2814fcb0bc8",
+    "experiment_a1/model.py": "fc34d376ab8a62cf4d24a3f5779f267a5b19ce11e9a5df11fec634b309a0b6ef",
+    "experiment_a1/old_scan.py": "8bdfb639cea710778164eb44f8a142d8c836cb760c3656bfd090377cc599ad62",
+    "experiment_a1/evaluate.py": "b15c6fb746ef35e883236fadb837ab6df7612a23b77e2de0d2fd396d50e200ac",
+    "experiment_a/model.py": "09bf4e69a00354c5bfb0b7bd32735340d851ece8ad0f7799118ba00bda85dc0e",
+    "experiment_a/data.py": "9940dfc3a073ca51997076aaf4ac18b6902671acf4ff1ac047ee998946ce403d",
+    "experiment_a/evaluate.py": "ac683b3b154d49b581122846ecf35c49ddcc7a52dd34756cf45e216bde99eb7d",
+    "pbos/models/transformer.py": "3eb310ff753f6410b43a76950ba6fefc3f8e1a0ab2353d93f22fb8b7ffb020d6",
+    "research/experiment_A1_preregistered_gates.md": "11c39783dcc95f640f277de5491911b9fa00f17c55f781e0a9e0f58a9aae08c5",
+    "research/experiment_A1_mechanism_validity_repair.md": "9b53b2913a1c57059bc6c80e7f6195858ad6128bb216c9bdf8a8f7a3d6a4ab49"
+  }
+}

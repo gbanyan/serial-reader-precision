@@ -1,0 +1,5 @@
+# Additional reporting dependencies. Historical exact versions not fully recorded.
+# These are compatibility ranges, not a reproduction of the original environment.
+-r requirements.txt
+pandas>=2,<3
+scipy>=1.14,<2

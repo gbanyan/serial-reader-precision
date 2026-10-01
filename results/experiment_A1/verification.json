@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "original_A_commit": "135141f83f09977e7cc0b28ff80fab4ee98a8e68",
+  "original_raw_hashes_verified": 1232,
+  "remote_local_hashes_verified": 529,
+  "frozen_source_hashes_verified": 12,
+  "original_tracked_evidence_unchanged": true,
+  "calibration_runs": 16,
+  "checkpoints": 48,
+  "independently_checked_metric_panels": 288,
+  "original_task_input_panels_identical": 96,
+  "remote_tests": {
+    "command": "python -m pytest -q tests/test_experiment_a1.py",
+    "passed": 14,
+    "container": "oscillation-expa1-final-tests",
+    "exit_code": 0
+  },
+  "factorial_run": false,
+  "ood_run": false
+}

@@ -1,0 +1,7 @@
+{
+  "classification": "A3-GEO-5",
+  "reason": "Phase readout-specific warping and causal geometry replay coexist with poor Scan calibration; scalar operational adaptation thresholds are not uniformly met.",
+  "factorial": "DO NOT RERUN FACTORIAL YET",
+  "experiment_B": "BLOCKED",
+  "training_runs": 0
+}

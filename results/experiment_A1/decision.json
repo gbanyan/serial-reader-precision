@@ -1,0 +1,28 @@
+{
+  "scan_validity": "FAIL",
+  "phase_stability": "FAIL",
+  "scan_seed_pass_counts": {
+    "priority_scan": 0,
+    "position_scan": 0,
+    "phase_scan": 0
+  },
+  "phase_seed_gate_counts": {
+    "phase_scan": {
+      "P1": 4,
+      "P2": 0,
+      "P3": 0,
+      "P4": 4,
+      "all": 0
+    },
+    "phase_competitive": {
+      "P1": 4,
+      "P2": 4,
+      "P3": 4,
+      "P4": 4,
+      "all": 4
+    }
+  },
+  "factorial_rerun": "NOT RUN",
+  "experiment_B": "NOT READY FOR EXPERIMENT B",
+  "compatibility": "A-COMPAT-6"
+}

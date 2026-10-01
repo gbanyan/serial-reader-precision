@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "raw_evidence_hashes": {
+    "experiment_A": 1232,
+    "experiment_A1": 529
+  },
+  "protected_result_document_hashes": 91,
+  "frozen_source_hashes": 8,
+  "matched_input_pairs": 72,
+  "native_prediction_replays": 144,
+  "training_runs": 0,
+  "contract_tests": 4,
+  "table_rows": {
+    "geometry_summary": 144,
+    "readout_alignment": 144,
+    "rank_metric_decomposition": 432,
+    "geometry_trajectory": 144,
+    "cross_readout_transfer": 144,
+    "phase_arc_analysis": 48,
+    "counterfactual_geometry": 232
+  },
+  "experiment_B": "BLOCKED"
+}

@@ -1,0 +1,13 @@
+{
+  "git_commit": "78110850b23f41b23597d201ae24388538ef5f7c",
+  "sha256": {
+    "experiment_a/run.py": "b93a4e0a17de376dea8718dd4763c735a6a9fe1be5aeccbac35ab235d50c906a",
+    "experiment_a/__init__.py": "059b496e32027823d86f4670eb0ec604006c158126389b276ed33af9ab1b002d",
+    "experiment_a/model.py": "09bf4e69a00354c5bfb0b7bd32735340d851ece8ad0f7799118ba00bda85dc0e",
+    "experiment_a/evaluate.py": "ac683b3b154d49b581122846ecf35c49ddcc7a52dd34756cf45e216bde99eb7d",
+    "experiment_a/data.py": "9940dfc3a073ca51997076aaf4ac18b6902671acf4ff1ac047ee998946ce403d",
+    "pbos/models/transformer.py": "3eb310ff753f6410b43a76950ba6fefc3f8e1a0ab2353d93f22fb8b7ffb020d6",
+    "research/experiment_A_preregistered_hypotheses.md": "e0999eaf8106d72cc0e557b215715ea89cad68de4dfce5d43d23f31b0f4e7151",
+    "research/experiment_A_representation_readout_compatibility.md": "f738f79f3c7659301641b67944c7d92c991f0e6bd91dc370434bca1c913b8e41"
+  }
+}

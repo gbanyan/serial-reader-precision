@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "preserved_raw_hashes": {
+    "experiment_A": 1232,
+    "experiment_A1": 529
+  },
+  "preregistered_source_hashes": 5,
+  "protected_document_result_hashes": 50,
+  "table_rows": {
+    "oracle_matrix": 120,
+    "noise_curves": 960,
+    "rank_inversion_analysis": 2880,
+    "learnability_gap": 36,
+    "learned_geometry_error": 32,
+    "invariance": 120,
+    "cursor_interventions": 360
+  },
+  "saved_A1_prediction_replays": 32,
+  "local_contract_tests": 4,
+  "remote_frozen_decoder_panels": 75,
+  "remote_trials_per_panel": 128,
+  "training_runs": 0,
+  "factorial_rerun": false,
+  "experiment_B": "BLOCKED"
+}
