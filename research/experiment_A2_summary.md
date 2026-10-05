@@ -72,6 +72,8 @@ Oracle Scan freeze changes 100% of sequences and yields no full correct sequence
 
 Priority affine, position matched affine/reference, and Phase/Scan common rotation preserve 100% of outputs. **Phase/Competitive fails the .99 sequence-invariance gate** with the symmetric oracle: mean preservation .7975, minimum .4590 across panels. A supplemental numerical check finds that every changed sequence differs only within equal projected-score groups (maximum discrepancy 2.22e−16). Mathematical scores remain invariant, but floating-point tie-selected identities do not. Phase/Competitive swap covariance is also only .80 averaged across lengths. These are flagged implementation/numerical limits for this oracle, not repaired or excused as passing controls. A.1 learned rotation results remain unchanged.
 
+**Manuscript provenance correction (2026-10-03; no rerun):** The preceding numerical-check attribution is qualified. D22 (`phase_tie_invariance_check.csv`) regenerated full-circle oracle codes using `oracle()` rather than reusing D25’s exact generated arrays. Its failing-length pattern is N6/N8/N12, whereas D25’s is N8/N10; N8 preservation fractions match. The maximum discrepancy 2.22e−16 and within-1e−12 reordered-score agreement apply to D22’s regenerated check, not to direct inspection of every D25 changed sequence. D25’s gate failure and all raw results remain unchanged. See Supplement S5 and the S005 same-unit review trail.
+
 ## Explicit answers and decision
 
 1. **Q1–Q3:** Yes: genuine Scan serializes perfect Priority, Position and Phase codes at all tested lengths.

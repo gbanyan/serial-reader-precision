@@ -1,12 +1,12 @@
 # A-series methods map — manuscript provenance
 
-2026-10-01. Read-only map of existing sources. **Do not execute listed modules to recreate figures/results.** [Result skeleton](A_series_results_skeleton.md), [statistics](A_series_statistical_audit.md), [formalization](A_series_analytical_formalization.md).
+2026-10-01 historical map; archive-facing traceability update 2026-10-03. This selected source map names existing metrics and interventions; it is not a complete dictionary or a table of quantitative results. The saved-evidence archive contains the linked code/results and [statistics record](A_series_statistical_audit.md). Listing a script does not authorize rerunning it.
 
 ## Shared task and model
 
 [Generator](../experiment_a/data.py): N distinct identities sampled without replacement from32, IID Uniform(0,1) scalar keys in numeric channel0, independent presentation permutations, target argsort of keys; VERSION experiment-a-scalar-v1. Learned backbone96 dimensions, two SetLayers, four heads; 164,162 parameters (154,272 backbone,9,890 head), no learned adapter. Identity and numeric key correspondences move together. Four head input controls include N/10 for code generation; factorial code is static across output steps. The distributed reference's step/used scorer is separate.
 
-A/A.1 used AdamW .001/wd.01/clip1/batch32,900 updates, alternating N4/N6, matched per-seed inputs; teacher-forced cross entropy during training and free predicted masks during evaluation. A.1 Scan has NO_MATCH/rejection in its logits/loss, so reader and objective package are entangled. No changes to these settings occurred in this pass.
+A/A.1 used AdamW .001/wd.01/clip1/batch32,900 updates, alternating N4/N6, matched per-seed inputs; teacher-forced cross entropy during training and free predicted masks during evaluation. A.1 Scan has NO_MATCH/rejection in its logits/loss, so reader and objective package are entangled. These are recorded historical settings.
 
 ## Result-to-source map
 
@@ -25,7 +25,7 @@ A/A.1 used AdamW .001/wd.01/clip1/batch32,900 updates, alternating N4/N6, matche
 | Rank versus metric decomposition | A.3 geometric()/main() | Same learned panels; C score rank vs S coordinate rank | steps300/600/900; headline900 | count/failures per rank-correct metric-good/poor stratum | [decomposition](../results/experiment_A3_rank_metric_decomposition.csv) |
 | Descriptive evolution/association | A.3 report() | Dependent saved checkpoints | Four seeds, three timepoints per load | Canonical error/arc/time; descriptive correlations,8 lagged transitions/load | [trajectory](../results/experiment_A3_geometry_trajectory.csv), [correlations](../results/experiment_A3/geometry_performance_correlations.csv), [lagged](../results/experiment_A3/lagged_geometry_associations.csv) |
 | Supplement: original confounded factorial | [A model](../experiment_a/model.py), [A report](../experiment_a/report.py) | A generator,6cells+reference; old angular Phase/unrestricted Scan | Eight seeds11–88;900 | Original interaction, collapse/pseudo-scan diagnostics | [A factorial](../results/experiment_A_main_factorial.csv), [statistics](../results/experiment_A/statistics.json), [old Scan diagnosis](../results/experiment_A1_old_scan_diagnostics.csv) |
-| Supplement: repair validity and stop | [A.1 run/evaluate](../experiment_a1/run.py), [evaluate](../experiment_a1/evaluate.py) |16 calibration runs, same generator; continuous phase/rejecting Scan | Four seeds, N4/N6,900; saved300/600/900 | Cursor causality, competence, phase stability; failed overall gate | [Scan calibration](../results/experiment_A1_scan_calibration.csv), [phase stability](../results/experiment_A1_phase_stability.csv), [causal gates](../results/experiment_A1_causal_gates.csv) |
+| Supplement: repair validity and stop | [A.1 run/evaluate](../experiment_a1/run.py), [evaluate](../experiment_a1/evaluate.py) |16 calibration runs, same generator; continuous phase/rejecting Scan | Four seeds, N4/N6,900; saved300/600/900 | Cursor causality, competence, phase stability; failed overall gate | [Scan calibration](../results/experiment_A1_scan_calibration.csv), [phase stability](../results/experiment_A1_phase_stability.csv), [causal gates](../results/experiment_A1_causal_gates.csv), [post-calibration noncyclic saved-code check (D12)](../results/experiment_A1/noncyclic_cursor_audit.csv) |
 
 ## Saved representation paths and no-pooling rules
 
@@ -35,4 +35,8 @@ Do not pool eight A seeds with four A.1 seeds, treat checkpoints as independent 
 
 ## Counterfactual information audit
 
-Target-informed oracle slots/arcs use true rank. Source-rank variants use explicit external argsort of the **source reader's oriented coordinate** (−priority,position,−phase-x for C,wrapped angle for S). Source-inferred semicircle retains source errors. Capped-span intervention relocates/orients and can cap spans belowπ. Nearest-slot snap can assign multiple items to one slot. None is an implemented learned remedy; no reader or weights are trained during replay. The current synthesis only reads those existing outputs.
+Target-informed oracle slots/arcs use true rank. Source-rank variants use explicit external argsort of the **source reader's oriented coordinate** (−priority,position,−phase-x for C,wrapped angle for S). Source-inferred semicircle retains source errors. Capped-span intervention relocates/orients and can cap spans belowπ. Nearest-slot snap can assign multiple items to one slot. None is an implemented learned remedy; no reader or weights are trained during replay. Manuscript preparation reads saved outputs without re-executing a model or reader.
+
+## Saved-table identities
+
+The supplied supplement inventory gives stable D01–D46 identifiers. D37 geometry_summary and D38 geometry_trajectory are byte-identical aliases written from the same summaries by experiment_a3/analyze.py; they are not independent evidence. The source table above is selected, not exhaustive. Later manuscript-preparation audits A01/A02 and the historical label/counterfactual dictionary are supplied separately with their own inventories.

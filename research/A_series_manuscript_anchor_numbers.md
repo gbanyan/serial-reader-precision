@@ -177,3 +177,17 @@ Read-only exploratory check on final Phase C arrays: wrapped atan2 angles all li
 | 6 | 44 | 0.662109375 |
 
 A small occupied arc or correct score sequence does not imply every learned trial occupies one monotonic chart. The manuscript may say actual projected ranks are compatible, and constructed oriented charts are compatible; native universal chart containment is UNSAFE. This is a descriptive saved-array diagnostic, not a new experiment or preregistered observation.
+
+## Later manuscript transparency anchors — S5 review (2026-10-03; saved-table arithmetic only)
+
+| Statement | Source/filter | Aggregation/exact value | Rounding/scope |
+|---|---|---|---|
+| Symmetric Circular/Competitive joint-rotation preservation | `results/experiment_A2_invariance.csv`; representation=phase, readout=competitive, kind=common_rotation, sigma=0;20rows | Equal-panel mean0.7974609375; min0.458984375;8invariant_pass=False atN8/N10 |79.75%,45.90%; four resampled1024-episode panels at eachN4/6/8/10/12, no trained-model seeds |
+| Regenerated oracle tie check | `results/experiment_A2/phase_tie_invariance_check.csv`;20rows | All sorted_score_sequences_equal=1; max_score_discrepancy2.220446049250313e-16; nonpreserved panelsN6/N8/N12, unlikeD25 N8/N10 |2.22×10^-16; tolerance1e-12/rtol0; applies to regenerated D22 codes, not direct audit of all D25 changed outputs |
+| Learned joint rotations | `results/experiment_A1_invariance.csv`; intervention=rotation_037 orrotation_210;32rows | All sequence_change_rate=0 |0changed sequences; bothcircularreaders,fourseeds,N4/N6; separatefrom supplied-codeA2 control |
+| Circular final zero-fit transfer | `results/experiment_A3_cross_readout_transfer.csv`; representation=phase,step=900;16rows | Sum(transfer_exact×1024)=2;16×1024=16384 |2/16384, pooled descriptive denominator; training replicate remains4seeds, directions/lengths notextra modelreplicates |
+
+These anchors disclose existing saved outcomes; no decoder/model was called. D25/D22 code-generation expressions have different floating-point operation order, so their arrays/outcome scopes are not treated as identical.
+
+## Later S8 saved-array transparency anchors
+A01 native_branch_audit.csv, representation=phase/readout=competitive/step=900, n=4: minimum fraction 0.7451171875 and maximum 0.9072265625 across four seeds, rounded to 74.51–90.72%. N6 percentages remain seed-specific counts/1024. A02 saved_scan_failure_audit.csv sums four seed rows per representation at N6/update900; failed/with_no_match/wrong_complete totals are priority 3941/3928/13, position 4068/4062/6, phase 3347/3297/50. Source NPZ and output/script hashes are recorded. This is later deterministic saved-output arithmetic, not reader replay or new experimental evidence.

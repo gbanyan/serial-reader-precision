@@ -1,0 +1,10 @@
+{
+  "operation": "Later deterministic arithmetic on saved predictions; no model or reader call",
+  "status": "Descriptive provenance audit, not a new experiment or preregistered analysis",
+  "numpy_version": "2.5.3",
+  "source_files": 12,
+  "script": "manuscript/tools/audit_saved_scan_failures.py",
+  "script_sha256": "639f2e8c0e7e7850227d8555cd0ced200177d56c701923cd67f33c137834de08",
+  "output": "manuscript/submission/saved_scan_failure_audit.csv",
+  "output_sha256": "903be625aa4866bf30a891550b59efb41cd9931abcc0b207431e4a12a7e815d9"
+}

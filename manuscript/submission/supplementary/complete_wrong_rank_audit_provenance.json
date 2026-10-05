@@ -1,0 +1,11 @@
+{
+  "operation": "Later deterministic arithmetic on saved Scan coordinates and predictions; no model or reader call",
+  "status": "Descriptive provenance audit (A03), added after external review; not preregistered",
+  "rank_definition": "strictly increasing Scan coordinate in target order; circular angle in turns cut at 0; no tolerance",
+  "numpy_version": "2.5.3",
+  "source_files": 12,
+  "script": "manuscript/tools/audit_complete_rank.py",
+  "script_sha256": "2650dad546a8b03964cf72efb48cd7cab37df66b5c9abc248dd828e366728907",
+  "output": "manuscript/submission/complete_wrong_rank_audit.csv",
+  "output_sha256": "fe64fe9fc89d9de5d832cc2a048b2a392709b0cd4fa8d2b1e20a983848a6ca4c"
+}

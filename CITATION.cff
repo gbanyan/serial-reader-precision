@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "Please cite the versioned code and synthetic-data release."
 title: "Serial reader precision: A-series code and synthetic research data"
 type: dataset
-version: 1.0.0
+version: "2.0.0"
 authors:
   - family-names: Huang
     given-names: Jing-Rung
@@ -12,4 +12,5 @@ authors:
     orcid: "https://orcid.org/0009-0002-5149-6790"
 license: CC-BY-4.0
 repository-code: "https://github.com/gbanyan/serial-reader-precision"
-url: "https://github.com/gbanyan/serial-reader-precision/releases/tag/v1.0.0"
+date-released: "2026-10-05"
+url: "https://github.com/gbanyan/serial-reader-precision/releases/tag/v2.0.0"

@@ -1,0 +1,415 @@
+[
+  {
+    "id": "D01",
+    "file": "D01_experiment_A_behavior_summary.csv",
+    "source": "results/experiment_A/behavior_summary.csv",
+    "sha256": "5d06db5aded072dd937d781220d341b38a43f0e91a44f326208ac6cdc3b26494",
+    "caption": "Saved behavior summary table from A; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D02",
+    "file": "D02_experiment_A_convergence_summary.csv",
+    "source": "results/experiment_A/convergence_summary.csv",
+    "sha256": "f7b7b22d12a238dc27ffbaa0a4c67e317c252795d8adcd252ec7519cf6d9ec60",
+    "caption": "Saved convergence summary table from A; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D03",
+    "file": "D03_experiment_A_final_exact_by_seed.csv",
+    "source": "results/experiment_A/final_exact_by_seed.csv",
+    "sha256": "5b67249c2b735a4a790049e1c3deb9fc3d30ac7599960003f283d8b8ceec2642",
+    "caption": "Saved final exact by seed table from A; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D04",
+    "file": "D04_experiment_A_mechanistic_gates.csv",
+    "source": "results/experiment_A/mechanistic_gates.csv",
+    "sha256": "9056ea533eaaabde745915403b412923d9e000d310121e771d03fe9649cac631",
+    "caption": "Saved mechanistic gates table from A; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D05",
+    "file": "D05_experiment_A_parameters.csv",
+    "source": "results/experiment_A/parameters.csv",
+    "sha256": "9569cb3fe02162e85696f3f55b3344c2f26c98d8cf9909684db877c748f63624",
+    "caption": "Saved parameters table from A; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D06",
+    "file": "D06_experiment_A_readout_geometry.csv",
+    "source": "results/experiment_A/readout_geometry.csv",
+    "sha256": "3cab9d843cd5e89a6c1da59b9995b1db9580234b600bfc41996c5e00449acc13",
+    "caption": "Saved readout geometry table from A; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D07",
+    "file": "D07_experiment_A_training_curves.csv",
+    "source": "results/experiment_A/training_curves.csv",
+    "sha256": "b93bd187c90b802dc48b91bb413c5ed69e3d430bd7f6793e934ef3038e44ea20",
+    "caption": "Saved training curves table from A; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D08",
+    "file": "D08_experiment_A_unanchored_phase_decoding.csv",
+    "source": "results/experiment_A/unanchored_phase_decoding.csv",
+    "sha256": "62c4362ecdd9fe697021c300c65d6088722dc93861ab2c101c93401e182c0a8c",
+    "caption": "Saved unanchored phase decoding table from A; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D09",
+    "file": "D09_experiment_A1_checkpoint_metrics.csv",
+    "source": "results/experiment_A1/checkpoint_metrics.csv",
+    "sha256": "7927012e5f1978848c0a3099e10a77d16d3520f35daa9936d3851cde3f6340bf",
+    "caption": "Saved checkpoint metrics table from A.1; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D10",
+    "file": "D10_experiment_A1_final_by_seed.csv",
+    "source": "results/experiment_A1/final_by_seed.csv",
+    "sha256": "9a8ecf1c5c15d92c7871bc62bc2a5a1898552987528643ef55a4ee765c2570e4",
+    "caption": "Saved final by seed table from A.1; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D11",
+    "file": "D11_experiment_A1_interventions.csv",
+    "source": "results/experiment_A1/interventions.csv",
+    "sha256": "42facf7437633d7314036fe34b71898e94d231cfe22c5670f2bac5a39117c6b3",
+    "caption": "Saved interventions table from A.1; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D12",
+    "file": "D12_experiment_A1_noncyclic_cursor_audit.csv",
+    "source": "results/experiment_A1/noncyclic_cursor_audit.csv",
+    "sha256": "3e82f5e9f268738ac4eb2704acbe98b4241ecb8364f9aad3dde59df96c9a24db",
+    "caption": "Post-calibration saved-code noncyclic cursor diagnostic from A.1; retained experiment-stage output, not a confirmatory test or new training run. Original columns retained."
+  },
+  {
+    "id": "D13",
+    "file": "D13_experiment_A1_training_curves.csv",
+    "source": "results/experiment_A1/training_curves.csv",
+    "sha256": "caec8e982b2dfe1621a4cf4f237aaf61239d739e3cc507243c4d066fa6352e86",
+    "caption": "Saved training curves table from A.1; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D14",
+    "file": "D14_experiment_A1_causal_gates.csv",
+    "source": "results/experiment_A1_causal_gates.csv",
+    "sha256": "88b3a0b81ea1a9297fefe3b6ea38729865520640c266a16e8dc83fcaba152d7e",
+    "caption": "Saved causal gates table from A.1; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D15",
+    "file": "D15_experiment_A1_invariance.csv",
+    "source": "results/experiment_A1_invariance.csv",
+    "sha256": "51f67eae0402515acbc83103d0916c3f794e624f50e89e8ee1e3870fcb152a13",
+    "caption": "Saved invariance table from A.1; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D16",
+    "file": "D16_experiment_A1_old_scan_diagnostics.csv",
+    "source": "results/experiment_A1_old_scan_diagnostics.csv",
+    "sha256": "763e99beaf0950c3ba356d9e63e62a6842c01d1225bbd37cc2c4bc1448c87e57",
+    "caption": "Saved old scan diagnostics table from A.1; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D17",
+    "file": "D17_experiment_A1_phase_stability.csv",
+    "source": "results/experiment_A1_phase_stability.csv",
+    "sha256": "7e91bf75072a85817c8e8ed4c1eb077623a9f941d706dc616790bdd6f92cf4f9",
+    "caption": "Saved phase stability table from A.1; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D18",
+    "file": "D18_experiment_A1_scan_calibration.csv",
+    "source": "results/experiment_A1_scan_calibration.csv",
+    "sha256": "05e7c92a8682ef527bae92450dc008b87ecdf46ca3bb826533df7be9dde9cbff",
+    "caption": "Saved scan calibration table from A.1; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D19",
+    "file": "D19_experiment_A2_analytical_scan_check.csv",
+    "source": "results/experiment_A2/analytical_scan_check.csv",
+    "sha256": "ce235717f53f5a3af90d1508cbee13e9c046386cc8f25183f5438298cd183b2b",
+    "caption": "Saved analytical scan check table from A.2; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D20",
+    "file": "D20_experiment_A2_noise_error_association.csv",
+    "source": "results/experiment_A2/noise_error_association.csv",
+    "sha256": "679c69a28aa0a7494f931c2f1eca2864166a2f41737239c2d6e1f2cbbbc0c99c",
+    "caption": "Saved noise error association table from A.2; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D21",
+    "file": "D21_experiment_A2_noise_thresholds.csv",
+    "source": "results/experiment_A2/noise_thresholds.csv",
+    "sha256": "3fcba875c4d322cb6c9857f4afecf0a3c8209242fd465c3959c2244cb0b79665",
+    "caption": "Saved noise thresholds table from A.2; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D22",
+    "file": "D22_experiment_A2_phase_tie_invariance_check.csv",
+    "source": "results/experiment_A2/phase_tie_invariance_check.csv",
+    "sha256": "745af22844aab565899f3bdb45259c094cd5482cbfa6a9c5e04faa69c67c50ef",
+    "caption": "Saved phase tie invariance check table from A.2; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D23",
+    "file": "D23_experiment_A2_robustness_auc.csv",
+    "source": "results/experiment_A2/robustness_auc.csv",
+    "sha256": "fb3d21ec2d56c15e2c6e2c6829891973fb8c893d7cd1e7de0c8c71a03846b162",
+    "caption": "Saved robustness auc table from A.2; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D24",
+    "file": "D24_experiment_A2_cursor_interventions.csv",
+    "source": "results/experiment_A2_cursor_interventions.csv",
+    "sha256": "1f2e093c41e8d7198a67dd021efd5340cf91c54a66d99bc5ad65b89ab3ec8d1f",
+    "caption": "Saved cursor interventions table from A.2; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D25",
+    "file": "D25_experiment_A2_invariance.csv",
+    "source": "results/experiment_A2_invariance.csv",
+    "sha256": "1016f137729b35f473c02195d09c3dbb729446a1cdca055c1568ae0f84e23edc",
+    "caption": "Saved invariance table from A.2; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D26",
+    "file": "D26_experiment_A2_learnability_gap.csv",
+    "source": "results/experiment_A2_learnability_gap.csv",
+    "sha256": "5000fb9b6716f76ff146a0722fe29384606a6abde1bf740858644472c5b23cb0",
+    "caption": "Saved learnability gap table from A.2; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D27",
+    "file": "D27_experiment_A2_learned_geometry_error.csv",
+    "source": "results/experiment_A2_learned_geometry_error.csv",
+    "sha256": "3159cc6077f96d3be28f43669c8aa7aa798a54ee3b371c298aaea97b691e3159",
+    "caption": "A.2 analysis of saved update-900 codes, four model seeds per condition; anchored/aligned errors and within-panel Spearman associations; undefined correlations remain missing. Original saved columns retained."
+  },
+  {
+    "id": "D28",
+    "file": "D28_experiment_A2_noise_curves.csv",
+    "source": "results/experiment_A2_noise_curves.csv",
+    "sha256": "5c3fc153631eeaa714cf92803d9d2df75c3d7cbc1be96c582d98286426842a7f",
+    "caption": "Saved noise curves table from A.2; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D29",
+    "file": "D29_experiment_A2_oracle_matrix.csv",
+    "source": "results/experiment_A2_oracle_matrix.csv",
+    "sha256": "2ff69a74191e0bac9d539d43eb857964b4b8f6d15008198a6907313649e24555",
+    "caption": "Saved oracle matrix table from A.2; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D30",
+    "file": "D30_experiment_A2_rank_inversion_analysis.csv",
+    "source": "results/experiment_A2_rank_inversion_analysis.csv",
+    "sha256": "a70bba1706fdcd6c59dabcd6b368e22ea559c9ba22c4279853b759a14cba074e",
+    "caption": "Saved rank inversion analysis table from A.2; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D31",
+    "file": "D31_experiment_A3_adjacent_spacing.csv",
+    "source": "results/experiment_A3/adjacent_spacing.csv",
+    "sha256": "fdd7a4967c215d8910483f64db1d1843623a2cae43bb6900a19be9718936d47e",
+    "caption": "Saved adjacent spacing table from A.3; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D32",
+    "file": "D32_experiment_A3_geometry_performance_correlations.csv",
+    "source": "results/experiment_A3/geometry_performance_correlations.csv",
+    "sha256": "c7d50666d08befe85c211994c44c58e12b763aabdb62c834c4e573b85c6f8025",
+    "caption": "Saved geometry performance correlations table from A.3; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D33",
+    "file": "D33_experiment_A3_lagged_geometry_associations.csv",
+    "source": "results/experiment_A3/lagged_geometry_associations.csv",
+    "sha256": "0da863cfa969f7a8665c14c9270885e4999410a3d369eef9d72525841bfb9991",
+    "caption": "Saved lagged geometry associations table from A.3; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D34",
+    "file": "D34_experiment_A3_paired_geometry_differences.csv",
+    "source": "results/experiment_A3/paired_geometry_differences.csv",
+    "sha256": "eb1a4a52cc432f428ebff6a77d6e707ef12a93c67310240ab43326de0ab87bb5",
+    "caption": "A.3 paired geometry differences at update 900; all four seed-matched model pairs contribute to each row. Original saved columns retained."
+  },
+  {
+    "id": "D35",
+    "file": "D35_experiment_A3_counterfactual_geometry.csv",
+    "source": "results/experiment_A3_counterfactual_geometry.csv",
+    "sha256": "988a59bc6a14d42c19e2358a82e02ceb63b1140bbae675700ea1af16a3d87a39",
+    "caption": "Saved counterfactual geometry table from A.3; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D36",
+    "file": "D36_experiment_A3_cross_readout_transfer.csv",
+    "source": "results/experiment_A3_cross_readout_transfer.csv",
+    "sha256": "38ca059f446ffb5dac71bfd6478f4cffb5729928af4da60777279d60a5994487",
+    "caption": "Saved cross readout transfer table from A.3; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D37",
+    "file": "D37_experiment_A3_geometry_summary.csv",
+    "source": "results/experiment_A3_geometry_summary.csv",
+    "sha256": "2340588d4439166d1bd13949469138e503e3791be1a60130e64cf3839990d404",
+    "caption": "Saved geometry summary table from A.3; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D38",
+    "file": "D38_experiment_A3_geometry_trajectory.csv",
+    "source": "results/experiment_A3_geometry_trajectory.csv",
+    "sha256": "2340588d4439166d1bd13949469138e503e3791be1a60130e64cf3839990d404",
+    "caption": "Saved geometry trajectory table from A.3; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D39",
+    "file": "D39_experiment_A3_phase_arc_analysis.csv",
+    "source": "results/experiment_A3_phase_arc_analysis.csv",
+    "sha256": "bbdd1d937d56f9ba468658c92b623bf7f6c0c63c464fd45cc484b49fe169bd71",
+    "caption": "Saved phase arc analysis table from A.3; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D40",
+    "file": "D40_experiment_A3_rank_metric_decomposition.csv",
+    "source": "results/experiment_A3_rank_metric_decomposition.csv",
+    "sha256": "0bd58d9998ef5db9d128d3973e809c66374fc13711df3193d90388b78ee0d917",
+    "caption": "Saved rank metric decomposition table from A.3; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D41",
+    "file": "D41_experiment_A3_readout_alignment.csv",
+    "source": "results/experiment_A3_readout_alignment.csv",
+    "sha256": "ebc846ec1887c36350d5759efbb6b2833261178bad6aeee8907329459697104f",
+    "caption": "Saved readout alignment table from A.3; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D47",
+    "file": "D47_experiment_A4_analytic_objective_optimum.csv",
+    "source": "results/experiment_A4/analytic_objective_optimum.csv",
+    "sha256": "7ce2cdc1cf1d3ee9b90bc92ad7f651f1dc3a7c34a9298450d9af44fb1ed23c1a",
+    "caption": "Saved analytic objective optimum table from A.4; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D48",
+    "file": "D48_experiment_A4_precision_diagnostics.csv",
+    "source": "results/experiment_A4/precision_diagnostics.csv",
+    "sha256": "12fe0b7164ad7536a71725ef6ba17a04b86135fd1e1d0502ff7af80b7a4eef6c",
+    "caption": "Saved precision diagnostics table from A.4; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D49",
+    "file": "D49_experiment_A4_raw_key_baseline.csv",
+    "source": "results/experiment_A4/raw_key_baseline.csv",
+    "sha256": "526296e327e8cc022c492935b0e53662380076504f4ddddf76dc1051087f4d9e",
+    "caption": "Saved raw key baseline table from A.4; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D50",
+    "file": "D50_experiment_A4_seed_metrics.csv",
+    "source": "results/experiment_A4/seed_metrics.csv",
+    "sha256": "be4b1075672babe9e64975bd41521f9541d6911b3a2d87319a4699690fedd839",
+    "caption": "Saved seed metrics table from A.4; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D51",
+    "file": "D51_experiment_A4_summary.csv",
+    "source": "results/experiment_A4/summary.csv",
+    "sha256": "561c51f3cab50c70c450c4ea92c31b7d24dc0bf805c2e327b4875d3e157fd26d",
+    "caption": "Saved summary table from A.4; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D52",
+    "file": "D52_experiment_A5_seed_metrics.csv",
+    "source": "results/experiment_A5/seed_metrics.csv",
+    "sha256": "dd87e7b35772526e32959497f488bfb7d5893a28a32b9f808eb435785f412c46",
+    "caption": "Saved seed metrics table from A.5; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D53",
+    "file": "D53_experiment_A5_summary.csv",
+    "source": "results/experiment_A5/summary.csv",
+    "sha256": "292f0aef0d6ac6dd8c40bf7f374e8b891b1158036bea06b50454fe7943925a59",
+    "caption": "Saved summary table from A.5; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D54",
+    "file": "D54_experiment_A6_seed_metrics.csv",
+    "source": "results/experiment_A6/seed_metrics.csv",
+    "sha256": "eb23587b0fd84f0200fbeabff33d38cfec103b083ec1e4c988353c2ba958b06b",
+    "caption": "Saved seed metrics table from A.6; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D55",
+    "file": "D55_experiment_A6_summary.csv",
+    "source": "results/experiment_A6/summary.csv",
+    "sha256": "32a23697048040cf2333b65ba87fa1f9b33a5ad17e7c8daf5f9bce823ebe5ce0",
+    "caption": "Saved summary table from A.6; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D56",
+    "file": "D56_experiment_A7_seed_metrics.csv",
+    "source": "results/experiment_A7/seed_metrics.csv",
+    "sha256": "c986843e158347dfb743e0215b18b2bcf7cbc2f8075a840cb8b697c4a1534f73",
+    "caption": "Saved seed metrics table from A.7; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D57",
+    "file": "D57_experiment_A7_summary.csv",
+    "source": "results/experiment_A7/summary.csv",
+    "sha256": "176eec89a44c1bc560af3169b9c9712e51f08d39407fef109e115d931c0c64fa",
+    "caption": "Saved summary table from A.7; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D58",
+    "file": "D58_experiment_A7R_replay_seed_metrics.csv",
+    "source": "results/experiment_A7R/replay_seed_metrics.csv",
+    "sha256": "152f7942ea39e040fcfb0020d94e46c383b0438365fd7f46912d95fb569ea4d3",
+    "caption": "Saved replay seed metrics table from A.7R; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D59",
+    "file": "D59_experiment_A7R_replay_summary.csv",
+    "source": "results/experiment_A7R/replay_summary.csv",
+    "sha256": "e6787383d10adfe37f454d9ba349dd3f5697595bf401bf92541e0cf7eabab01a",
+    "caption": "Saved replay summary table from A.7R; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D42",
+    "file": "D42_experiment_A_interventions.csv",
+    "source": "results/experiment_A_interventions.csv",
+    "sha256": "74bbcc9e0229bc16602eb6c7e6dcfe101a23d8bd367b6e80de4fbc2686e63ec3",
+    "caption": "Saved interventions table from A; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D43",
+    "file": "D43_experiment_A_invariance.csv",
+    "source": "results/experiment_A_invariance.csv",
+    "sha256": "01bdd7f888f627eb0d39873a3036ed4497aec24fe2a9b592f2f8fbff7147bee7",
+    "caption": "Saved invariance table from A; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D44",
+    "file": "D44_experiment_A_main_factorial.csv",
+    "source": "results/experiment_A_main_factorial.csv",
+    "sha256": "d9ebb277523c937a454699e646ecc5cfe3587686222bcb34363b6e8798650eae",
+    "caption": "Saved main factorial table from A; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D45",
+    "file": "D45_experiment_A_ood_length.csv",
+    "source": "results/experiment_A_ood_length.csv",
+    "sha256": "593e40269f331a739ae8b2e0255b0ed1a5c404a6c1633c26e50dacd69d552a94",
+    "caption": "Saved ood length table from A; original condition columns and aggregation retained."
+  },
+  {
+    "id": "D46",
+    "file": "D46_experiment_A_representation_diagnostics.csv",
+    "source": "results/experiment_A_representation_diagnostics.csv",
+    "sha256": "d74e41c499b020b6935ff8e65700b98e390d189811cfd9ec02e301cbf0a4b3cb",
+    "caption": "Saved representation diagnostics table from A; original condition columns and aggregation retained."
+  }
+]

@@ -1,0 +1,71 @@
+{
+  "R0_gate": {
+    "checked": 24576,
+    "mismatched_episodes": 0,
+    "passed": true
+  },
+  "R1_priority": {
+    "w45": 0.037841796875,
+    "w75": 0.90625,
+    "diff": 0.868408203125,
+    "seeds_higher": 8,
+    "supported": true
+  },
+  "R3_priority": {
+    "w30": 0.0001220703125,
+    "supported": true
+  },
+  "R1_position": {
+    "w45": 0.000244140625,
+    "w75": 0.9210205078125,
+    "diff": 0.9207763671875,
+    "seeds_higher": 8,
+    "supported": true
+  },
+  "R3_position": {
+    "w30": 0.0,
+    "supported": true
+  },
+  "R2_circular": {
+    "w45": 0.8841552734375,
+    "w30": 0.0770263671875,
+    "drop": 0.80712890625,
+    "seeds_lower": 8,
+    "supported": true
+  },
+  "R1": true,
+  "R3": true,
+  "R2": true,
+  "provenance": {
+    "script": "experiment_a7/replay_width.py",
+    "script_sha256": "93319f87b09a2fd9fd89ec72dec2a5535043e322c1a4ea31750b52e84dd2eb48",
+    "numpy": "2.5.3",
+    "sources": {
+      "runs/experiment_A5/B-b1/priority_scan/11/eval_36000_6.npz": "6065e9c8d714cdbac2e94220567f86364345bd70d41039a8b2395c86f4896f6f",
+      "runs/experiment_A5/B-b1/priority_scan/22/eval_36000_6.npz": "631e61776e3282fee393c31c7e6e9bbedab54aef225c5c9fdfdbd720d012a26a",
+      "runs/experiment_A5/B-b1/priority_scan/33/eval_36000_6.npz": "b161ba8ac220a4213e757724676df3c62d68044fff705ff634aa0525bac962b4",
+      "runs/experiment_A5/B-b1/priority_scan/44/eval_36000_6.npz": "f5bc1cb14ae64639f76c6d4eea08ed70411934ea2fa1afd7e702bcc25e3ca476",
+      "runs/experiment_A5/B-b1/priority_scan/55/eval_36000_6.npz": "a80b1efdeef3aed18dd03b841bed285c62e364f3d7df406b58065abceb80fce7",
+      "runs/experiment_A5/B-b1/priority_scan/66/eval_36000_6.npz": "9464ba1acb6fcca6460e06295ed9a8560795fbb5bc6f158955d97dd57f4df1cc",
+      "runs/experiment_A5/B-b1/priority_scan/77/eval_36000_6.npz": "5483925275ae17c2bbcdd5f5e76cf5c13be2dc0ad724537479a4d55f594178f5",
+      "runs/experiment_A5/B-b1/priority_scan/88/eval_36000_6.npz": "a6096a7dc2906d8ee4f50e752040d2461e16f4c4d7c07d15b0ba25d56dd482a2",
+      "runs/experiment_A5/B-b1/position_scan/11/eval_36000_6.npz": "3ca77104dd53d797f5ee0c219dcae35f8ddea97da725cde5b3d76bc2783dc576",
+      "runs/experiment_A5/B-b1/position_scan/22/eval_36000_6.npz": "690533a735c0e2b18b1b6d986c7a70a036de21a9952839552a1d9b6a5f60fbb3",
+      "runs/experiment_A5/B-b1/position_scan/33/eval_36000_6.npz": "8321a1cd928f96d8668e82273d2e81effe165d4b12c6c10bc8c4e976da12790b",
+      "runs/experiment_A5/B-b1/position_scan/44/eval_36000_6.npz": "fa19cd3cce6916facea8f82ffe0b3a6c8f0a31d66a2a491b621d4711218766b9",
+      "runs/experiment_A5/B-b1/position_scan/55/eval_36000_6.npz": "61ce22f04357701f3301ac33ca1ef3e667dad00f5407326a3ec355d51ee492be",
+      "runs/experiment_A5/B-b1/position_scan/66/eval_36000_6.npz": "35f62aee46433162bb8e64eac1242400fb937f3ae6752de3445fc389ca7bfbcb",
+      "runs/experiment_A5/B-b1/position_scan/77/eval_36000_6.npz": "bddccf9b1ed542da355c172ccbf1d7bb0d51105767ae80bab0d1cf9cf2dea20c",
+      "runs/experiment_A5/B-b1/position_scan/88/eval_36000_6.npz": "89add018aaee594ef1bbb7d35ddba6d322d352744e62178018242b9fdb9c107b",
+      "runs/experiment_A5/B-b1/phase_scan/11/eval_36000_6.npz": "4c7e0e2e459a2576f3c428b91940fdcd09ec07469f5cee58240b5ccf3e5141ce",
+      "runs/experiment_A5/B-b1/phase_scan/22/eval_36000_6.npz": "396baf13f9d2c0dad5ba25584446fd59d8eda7f40304ff37f0529850dff73108",
+      "runs/experiment_A5/B-b1/phase_scan/33/eval_36000_6.npz": "70140a8a992acff10fc8728498ed819ab97ff02194115e566037e3671dd7e8f9",
+      "runs/experiment_A5/B-b1/phase_scan/44/eval_36000_6.npz": "78782f4a1ed4b19bd1ba25d8ca9c925a2456aeb54a0ff8a12937cae99cdc5f0a",
+      "runs/experiment_A5/B-b1/phase_scan/55/eval_36000_6.npz": "56bb7b18bf0b8f87c07f34811e68f82040fbb2d9c6ef8f9487a346b44621076d",
+      "runs/experiment_A5/B-b1/phase_scan/66/eval_36000_6.npz": "42fff6609b67c52e55958836afebd1653270887b78c9befd169e677facffbc50",
+      "runs/experiment_A5/B-b1/phase_scan/77/eval_36000_6.npz": "b5be4cca07105069482a4f7a3066edccd11294f9ceddf6d8a7906582e90ad984",
+      "runs/experiment_A5/B-b1/phase_scan/88/eval_36000_6.npz": "7e3dd53999611cd97f5b9413a73b52c091454f02adfd04dd84d0d5844c409409"
+    },
+    "models_executed": false
+  }
+}

@@ -1,0 +1,13 @@
+representation,readout,seed,n,step,episodes,failed,with_no_match,wrong_complete,source,source_sha256
+priority,scan,11,6,900,1024,975,972,3,runs/experiment_A1/calibration/priority_scan/11/eval_900_6.npz,bfe13081737dfdb4010e92a3a884dfebb4ae591cd859d44d6fe81a97babd1529
+priority,scan,22,6,900,1024,998,998,0,runs/experiment_A1/calibration/priority_scan/22/eval_900_6.npz,472b81292ac96446533f3fb691bdc7247b80dad2ccaf3bf98411ff9fd8d5f48e
+priority,scan,33,6,900,1024,1007,1006,1,runs/experiment_A1/calibration/priority_scan/33/eval_900_6.npz,a3776765d8ea9b0ef83034ad09f89975c9e2947b3ea87c3aec5009daf482e5e4
+priority,scan,44,6,900,1024,961,952,9,runs/experiment_A1/calibration/priority_scan/44/eval_900_6.npz,395cf464435c8821bcea0266aef4dbf5544005ca4d49cefdc10ced764a7e40fa
+position,scan,11,6,900,1024,1017,1015,2,runs/experiment_A1/calibration/position_scan/11/eval_900_6.npz,4dafd27be8ae1ab0a0dc54788202a09ab7facb446dd00c0f55690b75cd530f9a
+position,scan,22,6,900,1024,1012,1009,3,runs/experiment_A1/calibration/position_scan/22/eval_900_6.npz,c2f2736126fa6e81b6e95950d61000dc1d39415903b68caeb613eabaff36444a
+position,scan,33,6,900,1024,1024,1024,0,runs/experiment_A1/calibration/position_scan/33/eval_900_6.npz,3a2946d46d7f437ca9dee5b092397588edc474b0c5b634b6ce327952498c6f5f
+position,scan,44,6,900,1024,1015,1014,1,runs/experiment_A1/calibration/position_scan/44/eval_900_6.npz,28de94f2f96d2d2d9bc2340c62669b7d78c190fb014e8e3f6172454ffccf7e8b
+phase,scan,11,6,900,1024,799,782,17,runs/experiment_A1/calibration/phase_scan/11/eval_900_6.npz,ba5415ea75fa38e61ee86f3b291688aa43c817587c5cdeba52a24c246f98dfb9
+phase,scan,22,6,900,1024,918,910,8,runs/experiment_A1/calibration/phase_scan/22/eval_900_6.npz,af2541ddbecd7299c1dbc8a7c58523fb42632faed9cec01af00dfc4f045225e3
+phase,scan,33,6,900,1024,784,768,16,runs/experiment_A1/calibration/phase_scan/33/eval_900_6.npz,14b1735fd988af8881b4c02c5c0db9e6f201ef12a90f631d18f1c34fb5d64b6c
+phase,scan,44,6,900,1024,846,837,9,runs/experiment_A1/calibration/phase_scan/44/eval_900_6.npz,d46b2826326a85803a80b6ec46f5c7f97d61e91b2d7a0cdde3173977c0d3acf9

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "H01",
+    "file": "H01_experiment_A_statistics.json",
+    "source": "results/experiment_A/statistics.json",
+    "sha256": "671442d14b2390be8851c7e11817404162948beb9baec6e472a9ca1a863aa4d3",
+    "caption": "Original Experiment A interaction, seed-level effects, gates and classifications; unchanged saved JSON, not a new analysis."
+  },
+  {
+    "id": "H02",
+    "file": "H02_experiment_A_confound_review.json",
+    "source": "research/experiment_A_confound_review.json",
+    "sha256": "d7365d495fd63db70abb0b1cb6e465c9c7db817fe38cc7fe7207eb803a0ab049",
+    "caption": "Post-results qualitative application of the preregistered confound precedence; unchanged decision JSON, also embedded in H01. These are not independent evidence."
+  },
+  {
+    "id": "H03",
+    "file": "H03_experiment_A3_preregistered_hypotheses.md",
+    "source": "research/experiment_A3_preregistered_hypotheses.md",
+    "sha256": "b4b4b4adc791c649aabb774757109f76c8cf1299d0061e2adedcb2bebbc4ae45",
+    "caption": "Original A.3 preregistration notes, including exploratory operational cutoffs; unchanged source text. Its stated freeze date is not independently certified by this copy or its hash."
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "status": "Later descriptive audit of existing saved codes; not a new experiment",
+  "data": "manuscript/submission/native_branch_audit.csv",
+  "data_sha256": "dc6219825c8c8f865cd4c1d5f4112ef6acfb6935eff12f036e90e86ab196b5e0",
+  "script": "manuscript/tools/audit_native_branch.py",
+  "script_sha256": "413d6cc5176994f1b983e27c26047871e1310a848ba8be5c7bd1cb83e5992df3",
+  "operations": "np.load, atan2, wrapped-angle branch containment, counts, SHA256 only; no model/decoder/generator execution",
+  "comment_update": "Endpoint comment corrected to match unchanged wrapping/test; no diagnostic rerun or output change."
+}

@@ -1,0 +1,39 @@
+{
+  "tag": "v2.0.0",
+  "archive": "A_series_saved_evidence_v2_2026_10_05_release.zip",
+  "archive_bytes": 10851714336,
+  "archive_sha256": "47eeecc64f2e4ba0e98671c038a558a48a4058a716b81cba9d35a2b2885db3c2",
+  "parts": [
+    {
+      "name": "A_series_saved_evidence_v2_2026_10_05_release.zip.part001",
+      "bytes": 1887436800,
+      "sha256": "4c2a2b2dec400dde8d0d04faed46c0e58ef8209756117bb8cee225b0a8b2e490"
+    },
+    {
+      "name": "A_series_saved_evidence_v2_2026_10_05_release.zip.part002",
+      "bytes": 1887436800,
+      "sha256": "9cd763bf35f07feee227236fbca6d5d4590e5446749cddb690c3c4ba81e28a6d"
+    },
+    {
+      "name": "A_series_saved_evidence_v2_2026_10_05_release.zip.part003",
+      "bytes": 1887436800,
+      "sha256": "87106fa24e7c0cb9a6051c8ae95c44caab6265c1f7eaf79ab2d3c0c5cfcd8e2e"
+    },
+    {
+      "name": "A_series_saved_evidence_v2_2026_10_05_release.zip.part004",
+      "bytes": 1887436800,
+      "sha256": "aa5fa7c5ba666dae5fa800fedbb19a5aec429a02b0fc5c0d6daa65fccdbab197"
+    },
+    {
+      "name": "A_series_saved_evidence_v2_2026_10_05_release.zip.part005",
+      "bytes": 1887436800,
+      "sha256": "7ce2f3826810ae3aa67be74db73dbdac2c69031335b0ddcfd6bfe6a7f1e898fd"
+    },
+    {
+      "name": "A_series_saved_evidence_v2_2026_10_05_release.zip.part006",
+      "bytes": 1414530336,
+      "sha256": "578c6043b29e9de43cdfda2627a6ce5b98767c9c000234dbc51e6eb04f746500"
+    }
+  ],
+  "archived_original_files": 17581
+}

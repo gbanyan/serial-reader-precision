@@ -127,12 +127,12 @@ for center,n in enumerate([4,6]):
         ax.scatter(center+.17+jitter,pair[1],color=ORANGE,s=42,marker=['o','s','^','v'][index],zorder=4)
     for offset,reader,col in [(-.17,'competitive',BLUE),(.17,'scan',ORANGE)]:
         vals=[float(r['arc_fraction'])*100 for r in arcs if int(r['step'])==900 and int(r['n'])==n and r['readout']==reader]
-        ax.scatter(center+offset,np.mean(vals),s=72,marker='D',color=col,edgecolor='white',zorder=6)
+        ax.scatter(center+offset,np.mean(vals),s=95,marker='D',facecolors='none',edgecolors=col,linewidths=1.3,zorder=2)
 ax.set_xticks([0,1],['N = 4','N = 6']);ax.set_xlim(-.45,1.45)
 percentage_axis(ax,'Mean minimal occupied arc (% of circle)')
 ax.plot([],[],'o',color=BLUE,label='Competitive-associated')
 ax.plot([],[],'o',color=ORANGE,label='Scan-associated')
-ax.plot([],[],'D',color=DARK,label='Equal-seed mean')
+ax.plot([],[],'D',markerfacecolor='none',markeredgecolor=DARK,linestyle='none',label='Equal-seed mean')
 ax.legend(loc='upper left',bbox_to_anchor=(0,-.15),ncol=3,frameon=False,fontsize=9)
 fig.subplots_adjust(bottom=.23)
 save(fig,4,{'seed_rows':records,'existing_effect_rows':[r for r in effects if r['representation']=='phase' and r['metric']=='arc_fraction']})

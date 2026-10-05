@@ -1,0 +1,9 @@
+representation,readout,seed,n,step,episodes,contained,fraction,code_dtype,numpy_version,source,source_sha256
+phase,competitive,11,4,900,1024,796,0.77734375,float32,2.5.3,runs/experiment_A1/calibration/phase_competitive/11/eval_900_4.npz,b3ca69684d3ff8ef0efc27a0fad35a8868a5c8432be83bf15b3c776d0c3b4b85
+phase,competitive,22,4,900,1024,763,0.7451171875,float32,2.5.3,runs/experiment_A1/calibration/phase_competitive/22/eval_900_4.npz,3304ec3fc8db04aa29a67e304937d33106a3190ecb7c88934c674a8300703e71
+phase,competitive,33,4,900,1024,929,0.9072265625,float32,2.5.3,runs/experiment_A1/calibration/phase_competitive/33/eval_900_4.npz,1f9c435f91cdf59e8dd06c6e0f134585651c8b8fae9d93e0e3760b3563e9b861
+phase,competitive,44,4,900,1024,902,0.880859375,float32,2.5.3,runs/experiment_A1/calibration/phase_competitive/44/eval_900_4.npz,64659a7aea9eeffbd3f6fcc26bbd969d92d3f952fa51704c94adf09c29d266b5
+phase,competitive,11,6,900,1024,414,0.404296875,float32,2.5.3,runs/experiment_A1/calibration/phase_competitive/11/eval_900_6.npz,b724ac79856c799e6b88c3fb9f8eaa555a7d36d7473efe1cd9019d9a0a4c0f19
+phase,competitive,22,6,900,1024,293,0.2861328125,float32,2.5.3,runs/experiment_A1/calibration/phase_competitive/22/eval_900_6.npz,3975ed768b7b0faa4d7930d0e9c84132f3be29d2abfecd6c81f7894d4686d591
+phase,competitive,33,6,900,1024,676,0.66015625,float32,2.5.3,runs/experiment_A1/calibration/phase_competitive/33/eval_900_6.npz,8ab6a9a0ced9c776c682ff4b57fd8cab25a2b68736678cb6464ae2090c5e1a91
+phase,competitive,44,6,900,1024,678,0.662109375,float32,2.5.3,runs/experiment_A1/calibration/phase_competitive/44/eval_900_6.npz,99a5ee362639b530b4ad3a936290149d66c4bcd2e9a647de31bd3cca425dc9af

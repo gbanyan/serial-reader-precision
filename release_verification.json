@@ -1,0 +1,41 @@
+{
+  "archive": "manuscript/release/A_series_saved_evidence_v2_2026_10_05_release.zip",
+  "archive_sha256": "47eeecc64f2e4ba0e98671c038a558a48a4058a716b81cba9d35a2b2885db3c2",
+  "location": "Fresh extraction directory on the local Mac; original source tree was not modified.",
+  "checkpoint_files_extracted": false,
+  "checks": {
+    "results/experiment_A4/analytic_objective_optimum.csv": true,
+    "results/experiment_A4/raw_key_baseline.csv": true,
+    "results/experiment_A4/precision_diagnostics.csv": true,
+    "manuscript/submission/complete_wrong_rank_audit.csv": true,
+    "manuscript/submission/complete_wrong_rank_audit_provenance.json": true,
+    "results/experiment_A5/seed_metrics.csv": true,
+    "results/experiment_A5/summary.csv": true,
+    "results/experiment_A5/hypotheses.json": true,
+    "results/experiment_A5/gate.json": true,
+    "results/experiment_A6/seed_metrics.csv": true,
+    "results/experiment_A6/summary.csv": true,
+    "results/experiment_A6/hypotheses.json": true,
+    "results/experiment_A6/gate.json": true,
+    "results/experiment_A7/seed_metrics.csv": true,
+    "results/experiment_A7/summary.csv": true,
+    "results/experiment_A7/hypotheses.json": true,
+    "results/experiment_A7R/replay_seed_metrics.csv": true,
+    "results/experiment_A7R/replay_summary.csv": true,
+    "results/experiment_A7R/hypotheses.json": true,
+    "manuscript/submission/figures/Figure_1.png": true,
+    "manuscript/submission/figures/Figure_2.png": true,
+    "manuscript/submission/figures/Figure_3.png": true,
+    "manuscript/submission/figures/Figure_4.png": true,
+    "manuscript/submission/figures/Figure_S1.png": true,
+    "manuscript/submission/figures/figure_provenance.json": true
+  },
+  "all_identical": true,
+  "verification_boundary": "Saved-array reports, saved-code A.7R replay, analytic calculations and figures only; no training or network execution. A.4 report was previously verified in the pinned container; it was not rerun in this local check.",
+  "environment": {
+    "python": "3.14",
+    "numpy": "2.5.3",
+    "scipy": "1.17.1",
+    "matplotlib": "3.10.8"
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "B1_priority_scan": {
+    "exact": 0.037841796875,
+    "offset": 1.0438713555534678,
+    "supported": true
+  },
+  "B3_priority_scan": {
+    "diff": 0.857666015625,
+    "ci": [
+      0.8145751953125,
+      0.8865966796875
+    ],
+    "seeds_positive": 8,
+    "supported": true
+  },
+  "N1_priority_scan": {
+    "offset": 1.669970135445948,
+    "a4_n6": 1.0198,
+    "supported": true
+  },
+  "N4_priority_scan": {
+    "exact": 0.0,
+    "supported": true
+  },
+  "B1_position_scan": {
+    "exact": 0.000244140625,
+    "offset": 1.1100276940398746,
+    "supported": true
+  },
+  "B3_position_scan": {
+    "diff": 0.919189453125,
+    "ci": [
+      0.9093017578125,
+      0.9287139892578125
+    ],
+    "seeds_positive": 8,
+    "supported": true
+  },
+  "N1_position_scan": {
+    "offset": 1.5483481567057351,
+    "a4_n6": 1.0734,
+    "supported": true
+  },
+  "N4_position_scan": {
+    "exact": 0.0,
+    "supported": true
+  },
+  "B2_priority_scan": {
+    "exact_14400": 0.7852783203125,
+    "exact_36000": 0.8955078125,
+    "seed_range": [
+      0.873046875,
+      0.91796875
+    ],
+    "classification": "STILL-RISING"
+  },
+  "N2_priority_scan": {
+    "offset": 0.057835349882090534,
+    "supported": true
+  },
+  "N3_priority_scan": {
+    "learned_profile": [
+      0.0,
+      1.175,
+      1.718,
+      1.854,
+      1.799,
+      1.802,
+      1.67,
+      0.0
+    ],
+    "analytic": [
+      0,
+      1.118,
+      1.651,
+      1.784,
+      1.798,
+      1.76,
+      1.728,
+      0
+    ],
+    "spearman": 0.8571428571428573,
+    "supported": true
+  },
+  "B2_position_scan": {
+    "exact_14400": 0.7940673828125,
+    "exact_36000": 0.91943359375,
+    "seed_range": [
+      0.8994140625,
+      0.9384765625
+    ],
+    "classification": "CLOSES"
+  },
+  "N2_position_scan": {
+    "offset": 0.11069788346214898,
+    "supported": true
+  },
+  "N3_position_scan": {
+    "learned_profile": [
+      0.119,
+      1.318,
+      1.696,
+      1.73,
+      1.68,
+      1.661,
+      1.642,
+      1.11
+    ],
+    "analytic": [
+      0,
+      1.119,
+      1.654,
+      1.792,
+      1.825,
+      1.824,
+      1.836,
+      1.109
+    ],
+    "spearman": 0.3571428571428572,
+    "supported": false
+  },
+  "B2_phase_scan": {
+    "exact_14400": 0.8055419921875,
+    "exact_36000": 0.9229736328125,
+    "seed_range": [
+      0.8896484375,
+      0.94140625
+    ],
+    "classification": "CLOSES"
+  },
+  "N2_phase_scan": {
+    "offset": 0.08548278893743241,
+    "supported": true
+  },
+  "N3_phase_scan": {
+    "learned_profile": [
+      0.051,
+      0.503,
+      0.898,
+      1.044,
+      1.032,
+      0.905,
+      0.571,
+      0.4
+    ],
+    "analytic": [
+      0,
+      0.416,
+      0.802,
+      1.021,
+      1.089,
+      0.991,
+      0.741,
+      0.548
+    ],
+    "spearman": 0.9285714285714288,
+    "supported": true
+  },
+  "B1": true,
+  "B3": true,
+  "N1": true,
+  "N4": true,
+  "N2": true,
+  "N3": false
+}

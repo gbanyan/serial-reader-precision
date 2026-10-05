@@ -1,0 +1,71 @@
+[
+  {
+    "id": "A01",
+    "file": "native_branch_audit.csv",
+    "source": "manuscript/submission/native_branch_audit.csv",
+    "sha256": "dc6219825c8c8f865cd4c1d5f4112ef6acfb6935eff12f036e90e86ab196b5e0",
+    "caption": "Later descriptive saved-array arithmetic; no model or reader call. Not an original experimental table.",
+    "companions": [
+      {
+        "id": "A01-provenance",
+        "file": "native_branch_audit_provenance.json",
+        "source": "manuscript/submission/native_branch_audit_provenance.json",
+        "sha256": "1670527adde8646bedac93d93c90c56a606848d94b7f6f8fbab7bc2e87b75ef3",
+        "caption": "Recorded audit provenance; original paths refer to the evidence repository."
+      },
+      {
+        "id": "A01-script",
+        "file": "audit_native_branch.py",
+        "source": "manuscript/tools/audit_native_branch.py",
+        "sha256": "413d6cc5176994f1b983e27c26047871e1310a848ba8be5c7bd1cb83e5992df3",
+        "caption": "Audit source copied unchanged; execute from its manuscript/tools location in the evidence repository, not this upload folder."
+      }
+    ]
+  },
+  {
+    "id": "A02",
+    "file": "saved_scan_failure_audit.csv",
+    "source": "manuscript/submission/saved_scan_failure_audit.csv",
+    "sha256": "903be625aa4866bf30a891550b59efb41cd9931abcc0b207431e4a12a7e815d9",
+    "caption": "Later descriptive saved-array arithmetic; no model or reader call. Not an original experimental table.",
+    "companions": [
+      {
+        "id": "A02-provenance",
+        "file": "saved_scan_failure_audit_provenance.json",
+        "source": "manuscript/submission/saved_scan_failure_audit_provenance.json",
+        "sha256": "2797565d0387d4b2d86f4548fdebf80aad3dc8759b177091a03ea2fb158c47d3",
+        "caption": "Recorded audit provenance; original paths refer to the evidence repository."
+      },
+      {
+        "id": "A02-script",
+        "file": "audit_saved_scan_failures.py",
+        "source": "manuscript/tools/audit_saved_scan_failures.py",
+        "sha256": "639f2e8c0e7e7850227d8555cd0ced200177d56c701923cd67f33c137834de08",
+        "caption": "Audit source copied unchanged; execute from its manuscript/tools location in the evidence repository, not this upload folder."
+      }
+    ]
+  },
+  {
+    "id": "A03",
+    "file": "complete_wrong_rank_audit.csv",
+    "source": "manuscript/submission/complete_wrong_rank_audit.csv",
+    "sha256": "fe64fe9fc89d9de5d832cc2a048b2a392709b0cd4fa8d2b1e20a983848a6ca4c",
+    "caption": "Later descriptive saved-array arithmetic; no model or reader call. Not an original experimental table.",
+    "companions": [
+      {
+        "id": "A03-provenance",
+        "file": "complete_wrong_rank_audit_provenance.json",
+        "source": "manuscript/submission/complete_wrong_rank_audit_provenance.json",
+        "sha256": "4f11050e414d4bd7b510630d8a40d185856e983b254d64e8f27d3a5f50262874",
+        "caption": "Recorded audit provenance; original paths refer to the evidence repository."
+      },
+      {
+        "id": "A03-script",
+        "file": "audit_complete_rank.py",
+        "source": "manuscript/tools/audit_complete_rank.py",
+        "sha256": "2650dad546a8b03964cf72efb48cd7cab37df66b5c9abc248dd828e366728907",
+        "caption": "Audit source copied unchanged; execute from its manuscript/tools location in the evidence repository, not this upload folder."
+      }
+    ]
+  }
+]

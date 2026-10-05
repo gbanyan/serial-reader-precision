@@ -1,0 +1,118 @@
+{
+  "M1_priority_scan": {
+    "exact": 0.8353271484375,
+    "offset": 0.6409190595149993,
+    "supported": true
+  },
+  "M2_priority_scan": {
+    "exact": 0.0057373046875,
+    "offset": 1.0970679918924966,
+    "supported": true
+  },
+  "W1_priority_scan": {
+    "B_b1_per_N": 0.4697421099990605,
+    "W30_per_N": 0.46419858187437046,
+    "W75_per_N": 0.5239976551383733,
+    "relative_differences": [
+      0.011801216043205373,
+      0.11550070556676567
+    ],
+    "supported": true
+  },
+  "W2_priority_scan": {
+    "W75": 0.868408203125,
+    "B_b1": 0.037841796875,
+    "diff": 0.83056640625,
+    "ci": [
+      0.7886962890625,
+      0.8658447265625
+    ],
+    "seeds_positive": 8,
+    "supported": true
+  },
+  "W3_scalar_priority_scan": {
+    "W30": 0.0,
+    "supported": true
+  },
+  "E1_priority_scan": {
+    "exact": 0.0013427734375,
+    "offset": 1.1061003990471363,
+    "supported": true
+  },
+  "E2_priority_scan": {
+    "exact": 0.511962890625,
+    "offset": -0.0084524539609752,
+    "diff": 0.5106201171875,
+    "ci": [
+      0.3460693359375,
+      0.6589385986328125
+    ],
+    "seeds_positive": 8,
+    "supported": true
+  },
+  "M1_position_scan": {
+    "exact": 0.9124755859375,
+    "offset": 0.6540278030766382,
+    "supported": true
+  },
+  "M2_position_scan": {
+    "exact": 0.0,
+    "offset": 1.12334744963381,
+    "supported": true
+  },
+  "W1_position_scan": {
+    "B_b1_per_N": 0.49951246231794366,
+    "W30_per_N": 0.4942771390080452,
+    "W75_per_N": 0.5348238468170166,
+    "relative_differences": [
+      0.010480866254276014,
+      0.07069169873202666
+    ],
+    "supported": true
+  },
+  "W2_position_scan": {
+    "W75": 0.9127197265625,
+    "B_b1": 0.000244140625,
+    "diff": 0.9124755859375,
+    "ci": [
+      0.90673828125,
+      0.918701171875
+    ],
+    "seeds_positive": 8,
+    "supported": true
+  },
+  "W3_scalar_position_scan": {
+    "W30": 0.0,
+    "supported": true
+  },
+  "E1_position_scan": {
+    "exact": 0.0341796875,
+    "offset": 1.0487100217077467,
+    "supported": true
+  },
+  "E2_position_scan": {
+    "exact": 0.9261474609375,
+    "offset": 0.04688324613703617,
+    "diff": 0.8919677734375,
+    "ci": [
+      0.818359375,
+      0.93408203125
+    ],
+    "seeds_positive": 8,
+    "supported": true
+  },
+  "W3_circular": {
+    "W30": 0.234130859375,
+    "B_b1": 0.8841552734375,
+    "drop": 0.6500244140625,
+    "seeds_below_B_mean": 8,
+    "supported": true
+  },
+  "M1": true,
+  "M2": true,
+  "W1": true,
+  "W2": true,
+  "E1": true,
+  "E2": true,
+  "W3": true
+}

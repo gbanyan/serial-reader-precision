@@ -1,0 +1,304 @@
+{
+  "primary": {
+    "F": 4.7988433244144515,
+    "df": [
+      2,
+      14
+    ],
+    "permutation_p": 0.0035498225088745564,
+    "effect_range": 0.321044921875,
+    "largest_contrast": "phase minus priority",
+    "directional_seeds": 7,
+    "differences": {
+      "priority": {
+        "mean": -0.08392333984375,
+        "sd": 0.04419913483187835,
+        "ci95": [
+          -0.11425933837890626,
+          -0.05694580078125
+        ],
+        "values": [
+          -0.021484375,
+          -0.05615234375,
+          -0.087890625,
+          -0.10107421875,
+          -0.09619140625,
+          -0.08984375,
+          -0.04931640625,
+          -0.16943359375
+        ]
+      },
+      "position": {
+        "mean": 0.00738525390625,
+        "sd": 0.01694762551948582,
+        "ci95": [
+          -0.0037841796875,
+          0.01763916015625
+        ],
+        "values": [
+          0.00048828125,
+          0.01513671875,
+          0.001953125,
+          0.02734375,
+          0.02685546875,
+          -0.0234375,
+          0.013671875,
+          -0.0029296875
+        ]
+      },
+      "phase": {
+        "mean": 0.23712158203125,
+        "sd": 0.35976099526379124,
+        "ci95": [
+          0.02655029296875,
+          0.49365234375
+        ],
+        "values": [
+          0.09765625,
+          -0.0869140625,
+          0.2158203125,
+          0.06201171875,
+          0.03271484375,
+          -0.0263671875,
+          0.84130859375,
+          0.7607421875
+        ]
+      }
+    }
+  },
+  "checkpoint_descriptive": {
+    "300": {
+      "F": 0.9340967828520347,
+      "df": [
+        2,
+        14
+      ],
+      "permutation_p": 0.40932953352332385,
+      "effect_range": 0.1947021484375,
+      "largest_contrast": "position minus priority",
+      "directional_seeds": 8,
+      "differences": {
+        "priority": {
+          "mean": -0.2310791015625,
+          "sd": 0.10572219349583512,
+          "ci95": [
+            -0.30084228515625,
+            -0.16515960693359377
+          ],
+          "values": [
+            -0.107421875,
+            -0.16357421875,
+            -0.35986328125,
+            -0.1572265625,
+            -0.24169921875,
+            -0.3388671875,
+            -0.3505859375,
+            -0.12939453125
+          ]
+        },
+        "position": {
+          "mean": -0.036376953125,
+          "sd": 0.029995392945171895,
+          "ci95": [
+            -0.05682525634765625,
+            -0.0177001953125
+          ],
+          "values": [
+            -0.0322265625,
+            -0.02392578125,
+            -0.02880859375,
+            -0.02783203125,
+            -0.091796875,
+            0.01318359375,
+            -0.05712890625,
+            -0.04248046875
+          ]
+        },
+        "phase": {
+          "mean": -0.08795166015625,
+          "sd": 0.488832239173621,
+          "ci95": [
+            -0.40503997802734376,
+            0.2235107421875
+          ],
+          "values": [
+            0.2138671875,
+            -0.60302734375,
+            0.53173828125,
+            0.46826171875,
+            -0.044921875,
+            -0.6298828125,
+            0.01171875,
+            -0.6513671875
+          ]
+        }
+      }
+    },
+    "600": {
+      "F": 9.413281920658074,
+      "df": [
+        2,
+        14
+      ],
+      "permutation_p": 0.0019499025048747563,
+      "effect_range": 0.3720703125,
+      "largest_contrast": "phase minus priority",
+      "directional_seeds": 7,
+      "differences": {
+        "priority": {
+          "mean": -0.06591796875,
+          "sd": 0.02931430842909415,
+          "ci95": [
+            -0.08367919921875,
+            -0.04669036865234377
+          ],
+          "values": [
+            -0.1025390625,
+            -0.0908203125,
+            -0.0615234375,
+            -0.07373046875,
+            -0.06640625,
+            -0.01904296875,
+            -0.0849609375,
+            -0.0283203125
+          ]
+        },
+        "position": {
+          "mean": -0.00384521484375,
+          "sd": 0.033447838421353154,
+          "ci95": [
+            -0.0244140625,
+            0.01861572265625
+          ],
+          "values": [
+            -0.03125,
+            0.01171875,
+            -0.03515625,
+            -0.01318359375,
+            0.04150390625,
+            0.04541015625,
+            -0.0107421875,
+            -0.0390625
+          ]
+        },
+        "phase": {
+          "mean": 0.30615234375,
+          "sd": 0.3119019371301386,
+          "ci95": [
+            0.11065521240234374,
+            0.515380859375
+          ],
+          "values": [
+            0.07421875,
+            0.01416015625,
+            0.42578125,
+            0.77685546875,
+            0.42578125,
+            -0.04296875,
+            0.10791015625,
+            0.66748046875
+          ]
+        }
+      }
+    },
+    "900": {
+      "F": 4.7988433244144515,
+      "df": [
+        2,
+        14
+      ],
+      "permutation_p": 0.0035498225088745564,
+      "effect_range": 0.321044921875,
+      "largest_contrast": "phase minus priority",
+      "directional_seeds": 7,
+      "differences": {
+        "priority": {
+          "mean": -0.08392333984375,
+          "sd": 0.04419913483187835,
+          "ci95": [
+            -0.11425933837890626,
+            -0.05694580078125
+          ],
+          "values": [
+            -0.021484375,
+            -0.05615234375,
+            -0.087890625,
+            -0.10107421875,
+            -0.09619140625,
+            -0.08984375,
+            -0.04931640625,
+            -0.16943359375
+          ]
+        },
+        "position": {
+          "mean": 0.00738525390625,
+          "sd": 0.01694762551948582,
+          "ci95": [
+            -0.0037841796875,
+            0.01763916015625
+          ],
+          "values": [
+            0.00048828125,
+            0.01513671875,
+            0.001953125,
+            0.02734375,
+            0.02685546875,
+            -0.0234375,
+            0.013671875,
+            -0.0029296875
+          ]
+        },
+        "phase": {
+          "mean": 0.23712158203125,
+          "sd": 0.35976099526379124,
+          "ci95": [
+            0.02655029296875,
+            0.49365234375
+          ],
+          "values": [
+            0.09765625,
+            -0.0869140625,
+            0.2158203125,
+            0.06201171875,
+            0.03271484375,
+            -0.0263671875,
+            0.84130859375,
+            0.7607421875
+          ]
+        }
+      }
+    }
+  },
+  "functional_seed_counts": {
+    "phase_competitive": 5,
+    "phase_scan": 7,
+    "position_competitive": 8,
+    "position_scan": 0,
+    "priority_competitive": 8,
+    "priority_scan": 6
+  },
+  "functional_cells": [
+    "phase_scan",
+    "position_competitive",
+    "priority_competitive",
+    "priority_scan"
+  ],
+  "pre_review_category": "A-COMPAT-2",
+  "confound_review": {
+    "status": "post-results application of preregistered confound precedence; no changed thresholds",
+    "dominant_confound": true,
+    "reasons": [
+      "Phase competitive exact accuracy falls from .611 to .000 to .103 in seed22, .002 to .663 to .026 in seed77, and .671 to .051 to .001 in seed88; the phase readout difference mixes compatibility with unstable optimization.",
+      "Position scan fails the preregistered cursor-effect gate in all eight seeds despite high accuracy; the nominal readout factor is not functionally distinct in that cell.",
+      "Secondary saved-state analysis finds frozen-cursor output agreement 1.000 for Position scan and .978 for Priority scan. This corroborates, but does not replace, the preregistered interventions: cursor advancement is largely dispensable under the learned geometry."
+    ],
+    "mechanical_threshold_passes": "Four cells pass the original six-of-eight numerical assay. These thresholds are necessary, not sufficient to exclude optimization and readout-degeneration confounds.",
+    "primary_classification": "A-COMPAT-6",
+    "experiment_B": "NOT READY FOR EXPERIMENT B",
+    "scope": "Current parameterizations and fixed-budget scalar task only; no claim of inherent incompatibility or broad phase failure. No architecture, training budget, or original hypothesis was changed."
+  },
+  "category": "A-COMPAT-6",
+  "experiment_B": "NOT READY FOR EXPERIMENT B",
+  "representation_mean_range": 0.23980712890625,
+  "readout_mean_difference": 0.05352783203125
+}

@@ -1,0 +1,13 @@
+{
+  "status": "post-results application of preregistered confound precedence; no changed thresholds",
+  "dominant_confound": true,
+  "reasons": [
+    "Phase competitive exact accuracy falls from .611 to .000 to .103 in seed22, .002 to .663 to .026 in seed77, and .671 to .051 to .001 in seed88; the phase readout difference mixes compatibility with unstable optimization.",
+    "Position scan fails the preregistered cursor-effect gate in all eight seeds despite high accuracy; the nominal readout factor is not functionally distinct in that cell.",
+    "Secondary saved-state analysis finds frozen-cursor output agreement 1.000 for Position scan and .978 for Priority scan. This corroborates, but does not replace, the preregistered interventions: cursor advancement is largely dispensable under the learned geometry."
+  ],
+  "mechanical_threshold_passes": "Four cells pass the original six-of-eight numerical assay. These thresholds are necessary, not sufficient to exclude optimization and readout-degeneration confounds.",
+  "primary_classification": "A-COMPAT-6",
+  "experiment_B": "NOT READY FOR EXPERIMENT B",
+  "scope": "Current parameterizations and fixed-budget scalar task only; no claim of inherent incompatibility or broad phase failure. No architecture, training budget, or original hypothesis was changed."
+}

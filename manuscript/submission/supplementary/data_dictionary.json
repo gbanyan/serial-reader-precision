@@ -1,0 +1,43 @@
+{
+  "scope": "Mappings for unchanged saved columns; not an additional experiment or independent dataset.",
+  "D14": {
+    "source": "experiment_a1/report.py",
+    "system": "phase_* denotes repaired A.1 continuous-vector circular conditions; original phase elsewhere may denote the obsolete angular implementation.",
+    "shift_all": "Transformed-target accuracy, not all-trial output agreement.",
+    "permutation_all": "Transformed-target accuracy, not D18 reordered-output agreement.",
+    "shift_conditional": "Transformed agreement among normal-correct trials.",
+    "permutation_conditional": "Transformed agreement among normal-correct trials.",
+    "gates": "Operational implementation checks, not independent learned-mechanism proof.",
+    "invariance_preserved": "One minus the maximum sequence_change_rate across the corresponding listed invariance checks; an operational summary, distinct from cursor shift/permutation interventions."
+  },
+  "D35": {
+    "source": "experiment_a3/analyze.py:113-130",
+    "variants": {
+      "learned": "LEARNED: unchanged saved representation.",
+      "oracle_slots": "TARGET_INFORMED: task-rank reference code; circular full-circle layout is not compatible with native cosine Competitive.",
+      "source_rank_uniform": "SOURCE_INFERRED: externally inferred source order embedded uniformly; circular layout uses full circle.",
+      "metric_distorted": "TARGET_RANK_PRESERVED: Scan-only cubic reconstruction from target ranks.",
+      "slot_snapped": "SOURCE_NEAREST_SLOT: Scan-only label-free independent snapping; duplicate slots may remain.",
+      "semicircle": "TARGET_INFORMED: circular Competitive, target ranks embedded on oriented semicircle.",
+      "learned_span_arc": "TARGET_INFORMED: target ranks embedded on source occupied span capped at pi minus 1e-4; not width-only intervention.",
+      "inferred_semicircle": "SOURCE_INFERRED: native projected-score order externally ranked and embedded on oriented semicircle.",
+      "source_rank_cubic": "SOURCE_RANK_PRESERVED: scalar Competitive, externally inferred source order rebuilt on cubic coordinates."
+    },
+    "boundary": "Externally computed source or target ranks do not show that a rank-to-coordinate algorithm was learned."
+  },
+  "D37_D38": {
+    "relationship": "Byte-identical intentional aliases of the same geometry summaries, written under two filenames by experiment_a3/analyze.py. They are not independent evidence.",
+    "sha256": "2340588d4439166d1bd13949469138e503e3791be1a60130e64cf3839990d404"
+  },
+  "historical_labels": {
+    "original_Experiment_A": "scan denotes original nonrejecting reference reader (whose output was largely reproduced by masked sorting in saved diagnostics); phase denotes wrapped atan2 coordinates, not the repaired normalized vector.",
+    "repaired_A1_and_A3": "Within repaired A.1 calibration and its A.3-derived analyses, scan denotes the rejecting fixed-reference reader and phase the repaired continuous-vector circular representation. Scalar Competitive source checkpoints in A.3 remain unchanged original-A models.",
+    "boundary": "Identical labels across stages do not imply identical implementations. Source/run paths establish the cohort.",
+    "A1_old_scan_exception": "The A.1 old_scan audit (D16; source runs/experiment_A1/old_scan) instead probes original-A models; its scan/phase labels retain the original implementations.",
+    "A2": "A.2 analytical oracle/noise tables (D19-D30) use the repaired A.1 reader equations cloned in experiment_a2/analysis.py: rejecting fixed-reference Scan and vector/cosine circular Competitive. Constructed phase codes are unit vectors, not original-A wrapped scalar phase. Learned endpoint rows use saved A.1 calibration outputs; original angular Phase is not substituted."
+  },
+  "D12": {
+    "source": "experiment_a1/noncyclic_audit.py",
+    "scope": "Post-calibration saved-code noncyclic cursor diagnostic retained in results/experiment_A1; a later experiment-stage check, not a new model training run. The D-versus-A01/A02 namespace distinguishes retained stage outputs from manuscript-preparation audits, not confirmatory versus exploratory evidence."
+  }
+}
