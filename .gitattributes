@@ -1,1 +1,2 @@
-*.csv text eol=lf
+# Preserve saved CSV bytes, including historical CRLF, for provenance hashes.
+*.csv -text
